@@ -12,4 +12,7 @@ app.use("/setup", setupRoutes);
 const apiRoutes = require("./routes/api");
 app.use("/api", apiRoutes);
 
+const terminalRoutes = require("./routes/terminal");
+app.use("/terminal", terminalRoutes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));
