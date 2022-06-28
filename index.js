@@ -6,7 +6,10 @@ const PORT = 8080;
 app.use(cors());
 app.use(express.json());
 
-const reactRoutes = require("./routes/react");
-app.use("/react", reactRoutes);
+const setupRoutes = require("./routes/setup");
+app.use("/setup", setupRoutes);
+
+const apiRoutes = require("./routes/api");
+app.use("/api", apiRoutes);
 
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));

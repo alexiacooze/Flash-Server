@@ -33,7 +33,7 @@
     {
     "id": 6,
       "questions": "What is the difference between curly braces {} and parenthesis () in React?",
-      "answer": "A framework",
+      "answer": "{} are used when using JSX, and () are used when invoking",
       "flipped": false
     },
     {
