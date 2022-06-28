@@ -1,181 +1,181 @@
 [
     {
         "id": 1,
-          "questions": "THIS IS A TESTTTTTTT?",
+          "questions": "What does API stand for?",
           "answer": "create-react-app <file name>",
           "flipped": false
         },
         {
         "id": 2,
-          "questions": "What is the difference between npm and yarn?",
+          "questions": "What is the purpose of an API?",
           "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
           "flipped": false
         },
         {
         "id": 3,
-          "questions": "What is the difference between npm and npx?",
+          "questions": "How do you call an API in react?",
           "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
           "flipped": false
         },
         {
         "id": 4,
-          "questions": "What tech stack does React usually use?",
+          "questions": "What is a REST or RESTFUL API?",
           "answer": "MERN, MongoDB, Express, React, and Node. HTML, and CSS are used for the client-side UI.",
           "flipped": false
         },
         {
         "id": 5,
-          "questions": "What is the most common language that is used within React",
+          "questions": "What is the difference between fetch vs. axios?",
           "answer": "Javascript",
           "flipped": false
         },
         {
         "id": 6,
-          "questions": "What is the difference between curly braces {} and parenthesis () in React?",
+          "questions": "What is an API key?",
           "answer": "{} are used when using JSX, and () are used when invoking",
           "flipped": false
         },
         {
         "id": 7,
-          "questions": "What is React?",
+          "questions": "What is an HTTP request?",
           "answer": "A front-end Javascript library",
           "flipped": false
         },
         {
         "id": 8,
-          "questions": "What are other common libraries that can be used instead of React?",
-          "answer": "Vue, and Express.",
+          "questions": "What are the 4 types of HTTP requests?",
+          "answer": "GET, POST, DELETE, and PATCH.",
           "flipped": false
         },
         {
         "id": 9,
-          "questions": "What is the difference between ReactJS and React Native",
-          "answer": "ReactJS is best used for general applications, and React Native is best used for mobile applications.",
+          "questions": "What is the use for GET",
+          "answer": "It is used to request data from an endpoint.",
           "flipped": false
         },
         {
         "id": 10,
-          "questions": "How do you access the DOM in React?",
-          "answer": "Via lifecycle methods, i.e., componentDidMount and componentDidUpdate functions.",
+          "questions": "What is the use for POST?",
+          "answer": "It is used to send data to an endpoint.",
           "flipped": false
         },
         {
         "id": 11,
-          "questions": "What are Components",
-          "answer": "Isolated, reusable bits of code that are specific to respective blocks of design within the UI",
+          "questions": "What is the use for PATCH",
+          "answer": "It is used to update a record or data value within an endpoint.",
           "flipped": false
         },
         {
         "id": 12,
-          "questions": "What is a functional componenet used for?",
-          "answer": "Functional componenets are used when state is being passed down as a prop.",
+          "questions": "What is the use for DELETE?",
+          "answer": "It is used to remove data from an endpoint.",
           "flipped": false
         },
         {
         "id": 13,
-          "questions": "What is a class componenet used for",
+          "questions": "What are API endpoints?",
           "answer": "It is primarily used when using state without hooks.",
           "flipped": false
         },
         {
         "id": 14,
-          "questions": "What is the purpose of using import within components",
+          "questions": "What is the difference betweeen componentDidMount and useEffect?",
           "answer": "Import allows access to dependencies, and other information within different components.",
           "flipped": false
         },
         {
         "id": 15,
-          "questions": "What are dependencies within React?",
+          "questions": "What are lifecycle methods??",
           "answer": "Third party code, libraries, or programs that are required for your code to run. I.e., installing SCSS insted of using CSS",
           "flipped": false
         },
         {
         "id": 16,
-          "questions": "How do you install dependencies within React?",
+          "questions": "What are the 3 phases of lifecycle methods?",
           "answer": "Npm i <dependency>, within the terminal i.e., npm i scss",
           "flipped": false
         },
         {
         "id": 17,
-          "questions": "Where do you find your dependencies within React?",
+          "questions": "What is the mounting phase used for?",
           "answer": "They can be found within both package-lock.json, and package.json.",
           "flipped": false
         },
         {
         "id": 18,
-          "questions": "What is the purpose of the node_modules package that is installed when creating-react-app?",
+          "questions": "What is the updating phase used for?",
           "answer": "The node-modules hold external packages, and dependencies that are essential for running an effecitve React app.",
           "flipped": false
         },
         {
         "id": 19,
-          "questions": "What is a json file?",
+          "questions": "What is the unmounting phase used for?",
           "answer": "A framework",
           "flipped": false
         },
         {
         "id": 20,
-          "questions": "What is the use for App.js vs. Index.js",
+          "questions": "What are promises?",
           "answer": "A file that stores data within objects.",
           "flipped": false
         },
         {
         "id": 21,
-          "questions": "True or False: Data within a JSON file is stored as a key:value pair?",
+          "questions": "What is the use of async and await?",
           "answer": "True",
           "flipped": false
         },
         {
         "id": 22,
-          "questions": "What is the purpose of a README.md file?",
+          "questions": "What is a .then used for?",
           "answer": "It is used to explain the decision making, steps, processes and intstallation steps of a project.",
           "flipped": false
         },
         {
         "id": 23,
-          "questions": "What is the difference between package-lock.json and package.json",
+          "questions": "What is a .catch used for?",
           "answer": "Package-lock.json describes the exact tree generated, and allows subsequent package installations to use the most current version. Package.json includes general information about the project and it dependencies.",
           "flipped": false
         },
         {
         "id": 24,
-          "questions": "What is the purpose of a .gitignore?",
+          "questions": "True of False: is it best practice to always include a .catch?",
           "answer": "To remove any files, folders, modules etc. from the general visibility of the code. Anything included within the .gitignore will not be shown within git repositories.",
           "flipped": false
         },
         {
         "id": 25,
-          "questions": "What is JSX?",
-          "answer": "JSX allows us to write HTML in React. It is an extension of Javascript.",
+          "questions": "How do you get promise results in React?",
+          "answer": "Promise values can be accessed by using await.",
           "flipped": false
         },
         {
         "id": 26,
-          "questions": "Is Javscript used before or after the return within components?",
-          "answer": "It is placed before.",
+          "questions": "True or False: promises are asynchronus?",
+          "answer": "True.",
           "flipped": false
         },
         {
         "id": 27,
-          "questions": "Is JSX used before or after the return within components",
+          "questions": "What is a callback function?",
           "answer": "It is placed after.",
           "flipped": false
         },
         {
         "id": 28,
-          "questions": "True or False: JSX converts HTML tags into react elements?",
-          "answer": "True",
+          "questions": "What is the difference between a callback and a promise?",
+          "answer": "A promise is an object which is used to handle the asynchronous result of an operation. The promise constructor takes one argument, a callback function with two parameters, resolve and reject.",
           "flipped": false
         },
         {
         "id": 29,
-          "questions": "What is interpolation within JSX?",
-          "answer": "Interpolation is used to interpret Javascript when it is being used below the return. Interpolation uses curly braces to interpret the Javascript i.e., onClick={}",
+          "questions": "What is the benefit of using an asynchronus function?",
+          "answer": "It allows for different types of code to run synonomously, which increases output speed.",
           "flipped": false
         },
         {
         "id": 30,
-          "questions": "True or False: it us best practice to always include semicolons to seperate lines of code?",
+          "questions": "True or False: an you pass a callback into a function?",
           "answer": "True",
           "flipped": false
         }
