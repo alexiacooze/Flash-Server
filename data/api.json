@@ -2,43 +2,43 @@
     {
         "id": 1,
           "questions": "What does API stand for?",
-          "answer": "create-react-app <file name>",
+          "answer": "application programming interface.",
           "flipped": false
         },
         {
         "id": 2,
           "questions": "What is the purpose of an API?",
-          "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
+          "answer": "An API is a document that contains specific backend data, that can be used an integrated into front-end applications.",
           "flipped": false
         },
         {
         "id": 3,
-          "questions": "How do you call an API in react?",
-          "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
+          "questions": "True or False: you will need an api URL to access REST API data?",
+          "answer": "True.",
           "flipped": false
         },
         {
         "id": 4,
-          "questions": "What is a REST or RESTFUL API?",
-          "answer": "MERN, MongoDB, Express, React, and Node. HTML, and CSS are used for the client-side UI.",
+          "questions": "What is the difference between a REST API vs. a SOPA API?",
+          "answer": "SOAP is a protocol whereas REST is an architectural pattern. a REST API uses representational state transfer is a software architecture, and is used to interact via an HTTP protocols. SOAP uses service interfaces to expose its functionality to client applications",
           "flipped": false
         },
         {
         "id": 5,
-          "questions": "What is the difference between fetch vs. axios?",
-          "answer": "Javascript",
+          "questions": "True of False: SOAP API's use URL'S TO access data?",
+          "answer": "False, SOAP API's access data via calling RPC method.",
           "flipped": false
         },
         {
         "id": 6,
-          "questions": "What is an API key?",
-          "answer": "{} are used when using JSX, and () are used when invoking",
+          "questions": "What is a key?",
+          "answer": "Keys are assigned to elements to help with the indentification and identity of the element ",
           "flipped": false
         },
         {
         "id": 7,
           "questions": "What is an HTTP request?",
-          "answer": "A front-end Javascript library",
+          "answer": "A request this is made from the client side to request access to the server side i.e., when making an api request via axios.",
           "flipped": false
         },
         {
@@ -74,79 +74,79 @@
         {
         "id": 13,
           "questions": "What are API endpoints?",
-          "answer": "It is primarily used when using state without hooks.",
+          "answer": "API endpoint is a digital location where an API receives requests about a specific resource on its server.",
           "flipped": false
         },
         {
         "id": 14,
           "questions": "What is the difference betweeen componentDidMount and useEffect?",
-          "answer": "Import allows access to dependencies, and other information within different components.",
+          "answer": "Both run after mounting. UseEffect runs after the paint has been committed to the screen as opposed to before",
           "flipped": false
         },
         {
         "id": 15,
           "questions": "What are lifecycle methods??",
-          "answer": "Third party code, libraries, or programs that are required for your code to run. I.e., installing SCSS insted of using CSS",
+          "answer": "Methods used to operate on components throughout their duration in the DOM",
           "flipped": false
         },
         {
         "id": 16,
           "questions": "What are the 3 phases of lifecycle methods?",
-          "answer": "Npm i <dependency>, within the terminal i.e., npm i scss",
+          "answer": "Mounting, updating, and unmounting",
           "flipped": false
         },
         {
         "id": 17,
           "questions": "What is the mounting phase used for?",
-          "answer": "They can be found within both package-lock.json, and package.json.",
+          "answer": "The initial phase in which the instance of the component is created and inserted into the DOM.",
           "flipped": false
         },
         {
         "id": 18,
           "questions": "What is the updating phase used for?",
-          "answer": "The node-modules hold external packages, and dependencies that are essential for running an effecitve React app.",
+          "answer": "It is used wehn a change is made to the state or props of a React component, which rerenders the component.",
           "flipped": false
         },
         {
         "id": 19,
           "questions": "What is the unmounting phase used for?",
-          "answer": "A framework",
+          "answer": "It is called immediately before the component is removed from the DOM.",
           "flipped": false
         },
         {
         "id": 20,
-          "questions": "What are promises?",
-          "answer": "A file that stores data within objects.",
+          "questions": "What is a promise?",
+          "answer": "A promise is a function that is used return result at a later point of time, is specific conditons as met, and are true.",
           "flipped": false
         },
         {
         "id": 21,
           "questions": "What is the use of async and await?",
-          "answer": "True",
+          "answer": "Async is used to make a function asynchronous, and await will ask the execution to wait until the defined task gets executed",
           "flipped": false
         },
         {
         "id": 22,
           "questions": "What is a .then used for?",
-          "answer": "It is used to explain the decision making, steps, processes and intstallation steps of a project.",
+          "answer": "It is used as a promise when having something resolved at a later point in time. The .then is called if a promise is met.",
           "flipped": false
         },
         {
         "id": 23,
           "questions": "What is a .catch used for?",
-          "answer": "Package-lock.json describes the exact tree generated, and allows subsequent package installations to use the most current version. Package.json includes general information about the project and it dependencies.",
+          "answer": "It is used is a promise is rejected, and is called at a later point in time if the .then cannot be resolved.",
           "flipped": false
         },
         {
         "id": 24,
           "questions": "True of False: is it best practice to always include a .catch?",
-          "answer": "To remove any files, folders, modules etc. from the general visibility of the code. Anything included within the .gitignore will not be shown within git repositories.",
+          "answer": "True.",
           "flipped": false
         },
         {
         "id": 25,
           "questions": "How do you get promise results in React?",
-          "answer": "Promise values can be accessed by using await.",
+          "answer": "Promise values can be accessed by using await, or response and .then.",
           "flipped": false
         },
         {
@@ -158,7 +158,7 @@
         {
         "id": 27,
           "questions": "What is a callback function?",
-          "answer": "It is placed after.",
+          "answer": "A function that is passed into another function as an argument, which is used to be called as an action later on.",
           "flipped": false
         },
         {
