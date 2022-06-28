@@ -69,43 +69,43 @@
     {
     "id": 12,
       "questions": "What is a functional componenet used for?",
-      "answer": "A framework",
+      "answer": "Functional componenets are used when state is being passed down as a prop.",
       "flipped": false
     },
     {
     "id": 13,
       "questions": "What is a class componenet used for",
-      "answer": "A framework",
+      "answer": "It is primarily used when using state without hooks.",
       "flipped": false
     },
     {
     "id": 14,
       "questions": "What is the purpose of using import within components",
-      "answer": "A framework",
+      "answer": "Import allows access to dependencies, and other information within different components.",
       "flipped": false
     },
     {
     "id": 15,
       "questions": "What are dependencies within React?",
-      "answer": "A framework",
+      "answer": "Third party code, libraries, or programs that are required for your code to run. I.e., installing SCSS insted of using CSS",
       "flipped": false
     },
     {
     "id": 16,
       "questions": "How do you install dependencies within React?",
-      "answer": "A framework",
+      "answer": "Npm i <dependency>, within the terminal i.e., npm i scss",
       "flipped": false
     },
     {
     "id": 17,
       "questions": "Where do you find your dependencies within React?",
-      "answer": "A framework",
+      "answer": "They can be found within both package-lock.json, and package.json.",
       "flipped": false
     },
     {
     "id": 18,
-      "questions": "What is the purpose of node modules within ",
-      "answer": "A framework",
+      "questions": "What is the purpose of the node_modules package that is installed when creating-react-app?",
+      "answer": "The node-modules hold external packages, and dependencies that are essential for running an effecitve React app.",
       "flipped": false
     },
     {
@@ -117,37 +117,37 @@
     {
     "id": 20,
       "questions": "What is the use for App.js vs. Index.js",
-      "answer": "A framework",
+      "answer": "A file that stores data within objects.",
       "flipped": false
     },
     {
     "id": 21,
-      "questions": "What are node modules that are inherently downloaded when a React app is created?",
-      "answer": "A framework",
+      "questions": "True or False: Data within a JSON file is stored as a key:value pair?",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 22,
       "questions": "What is the purpose of a README.md file?",
-      "answer": "A framework",
+      "answer": "It is used to explain the decision making, steps, processes and intstallation steps of a project.",
       "flipped": false
     },
     {
     "id": 23,
       "questions": "What is the difference between package-lock.json and package.json",
-      "answer": "A framework",
+      "answer": "Package-lock.json describes the exact tree generated, and allows subsequent package installations to use the most current version. Package.json includes general information about the project and it dependencies.",
       "flipped": false
     },
     {
     "id": 24,
       "questions": "What is the purpose of a .gitignore?",
-      "answer": "A framework",
+      "answer": "To remove any files, folders, modules etc. from the general visibility of the code. Anything included within the .gitignore will not be shown within git repositories.",
       "flipped": false
     },
     {
     "id": 25,
       "questions": "What is JSX?",
-      "answer": "A framework",
+      "answer": "JSX allows us to write HTML in React. It is an extension of Javascript.",
       "flipped": false
     },
     {
@@ -159,13 +159,13 @@
     {
     "id": 27,
       "questions": "Is JSX used before or after the return within components",
-      "answer": "It is placed afer.",
+      "answer": "It is placed after.",
       "flipped": false
     },
     {
     "id": 28,
-      "questions": "How do you use JSX",
-      "answer": "A framework",
+      "questions": "True or False: JSX converts HTML tags into react elements?",
+      "answer": "True",
       "flipped": false
     },
     {
