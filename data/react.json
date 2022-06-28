@@ -2,182 +2,182 @@
 [
     {
     "id": 1,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What is the terminal command to create a react application?",
+      "answer": "create-react-app <file name>",
       "flipped": false
     },
     {
     "id": 2,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What is the difference between npm and yarn?",
+      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
       "flipped": false
     },
     {
     "id": 3,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What is the difference between npm and npx?",
+      "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
       "flipped": false
     },
     {
     "id": 4,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What tech stack does React usually use?",
+      "answer": "MERN, MongoDB, Express, React, and Node. HTML, and CSS are used for the client-side UI.",
       "flipped": false
     },
     {
     "id": 5,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What is the most common language that is used within React",
+      "answer": "Javascript",
       "flipped": false
     },
     {
     "id": 6,
-      "questions": "QUESTION 1",
+      "questions": "What is the difference between curly braces {} and parenthesis () in React?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 7,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What is React?",
+      "answer": "A front-end Javascript library",
       "flipped": false
     },
     {
     "id": 8,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What are other common libraries that can be used instead of React?",
+      "answer": "Vue, and Express.",
       "flipped": false
     },
     {
     "id": 9,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What is the difference between ReactJS and React Native",
+      "answer": "ReactJS is best used for general applications, and React Native is best used for mobile applications.",
       "flipped": false
     },
     {
     "id": 10,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "How do you access the DOM in React?",
+      "answer": "Via lifecycle methods, i.e., componentDidMount and componentDidUpdate functions.",
       "flipped": false
     },
     {
     "id": 11,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What are Components",
+      "answer": "Isolated, reusable bits of code that are specific to respective blocks of design within the UI",
       "flipped": false
     },
     {
     "id": 12,
-      "questions": "QUESTION 1",
+      "questions": "What is a functional componenet used for?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 13,
-      "questions": "QUESTION 1",
+      "questions": "What is a class componenet used for",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 14,
-      "questions": "QUESTION 1",
+      "questions": "What is the purpose of using import within components",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 15,
-      "questions": "QUESTION 1",
+      "questions": "What are dependencies within React?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 16,
-      "questions": "QUESTION 1",
+      "questions": "How do you install dependencies within React?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 17,
-      "questions": "QUESTION 1",
+      "questions": "Where do you find your dependencies within React?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 18,
-      "questions": "QUESTION 1",
+      "questions": "What is the purpose of node modules within ",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 19,
-      "questions": "QUESTION 1",
+      "questions": "What is a json file?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 20,
-      "questions": "QUESTION 1",
+      "questions": "What is the use for App.js vs. Index.js",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 21,
-      "questions": "QUESTION 1",
+      "questions": "What are node modules that are inherently downloaded when a React app is created?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 22,
-      "questions": "QUESTION 1",
+      "questions": "What is the purpose of a README.md file?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 23,
-      "questions": "QUESTION 1",
+      "questions": "What is the difference between package-lock.json and package.json",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 24,
-      "questions": "QUESTION 1",
+      "questions": "What is the purpose of a .gitignore?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 25,
-      "questions": "QUESTION 1",
+      "questions": "What is JSX?",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 26,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "Is Javscript used before or after the return within components?",
+      "answer": "It is placed before.",
       "flipped": false
     },
     {
     "id": 27,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "Is JSX used before or after the return within components",
+      "answer": "It is placed afer.",
       "flipped": false
     },
     {
     "id": 28,
-      "questions": "QUESTION 1",
+      "questions": "How do you use JSX",
       "answer": "A framework",
       "flipped": false
     },
     {
     "id": 29,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "What is interpolation within JSX?",
+      "answer": "Interpolation is used to interpret Javascript when it is being used below the return. Interpolation uses curly braces to interpret the Javascript i.e., onClick={}",
       "flipped": false
     },
     {
     "id": 30,
-      "questions": "QUESTION 1",
-      "answer": "A framework",
+      "questions": "True or False: it us best practice to always include semicolons to seperate lines of code?",
+      "answer": "True",
       "flipped": false
     }
 ]
