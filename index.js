@@ -21,4 +21,16 @@ app.use("/hooks", hooksRoutes);
 const statesRoutes = require("./routes/state");
 app.use("/state", statesRoutes);
 
+const conditionalsRoutes = require("./routes/conditionals");
+app.use("/conditionals", conditionalsRoutes);
+
+const importsRoutes = require("./routes/imports");
+app.use("/imports", importsRoutes);
+
+const lifeCycleRoutes = require("./routes/lifecycle");
+app.use("/lifecycle", lifeCycleRoutes);
+
+const routingRoutes = require("./routes/routing");
+app.use("/routing", routingRoutes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));

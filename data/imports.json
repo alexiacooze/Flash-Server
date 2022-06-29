@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+          "questions": "imports?",
+          "answer": "application programming interface.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What is the purpose of an API?",
+          "answer": "An API is a document that contains specific backend data, that can be used an integrated into front-end applications.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "True or False: you will need an api URL to access REST API data?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "What is the difference between a REST API vs. a SOPA API?",
+          "answer": "SOAP is a protocol whereas REST is an architectural pattern. a REST API uses representational state transfer is a software architecture, and is used to interact via an HTTP protocols. SOAP uses service interfaces to expose its functionality to client applications",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "True of False: SOAP API's use URL'S TO access data?",
+          "answer": "False, SOAP API's access data via calling RPC method.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is a key?",
+          "answer": "Keys are assigned to elements to help with the indentification and identity of the element ",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "What is an HTTP request?",
+          "answer": "A request this is made from the client side to request access to the server side i.e., when making an api request via axios.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "What are the 4 types of HTTP requests?",
+          "answer": "GET, POST, DELETE, and PATCH.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "What is the use for GET",
+          "answer": "It is used to request data from an endpoint.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "What is the use for POST?",
+          "answer": "It is used to send data to an endpoint.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What is the use for PATCH",
+          "answer": "It is used to update a record or data value within an endpoint.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "What is the use for DELETE?",
+          "answer": "It is used to remove data from an endpoint.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "What are API endpoints?",
+          "answer": "API endpoint is a digital location where an API receives requests about a specific resource on its server.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "What is the difference betweeen componentDidMount and useEffect?",
+          "answer": "Both run after mounting. UseEffect runs after the paint has been committed to the screen as opposed to before",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "What are lifecycle methods??",
+          "answer": "Methods used to operate on components throughout their duration in the DOM",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "What are the 3 phases of lifecycle methods?",
+          "answer": "Mounting, updating, and unmounting",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "What is the mounting phase used for?",
+          "answer": "The initial phase in which the instance of the component is created and inserted into the DOM.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "What is the updating phase used for?",
+          "answer": "It is used wehn a change is made to the state or props of a React component, which rerenders the component.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What is the unmounting phase used for?",
+          "answer": "It is called immediately before the component is removed from the DOM.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "What is a promise?",
+          "answer": "A promise is a function that is used return result at a later point of time, is specific conditons as met, and are true.",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "What is the use of async and await?",
+          "answer": "Async is used to make a function asynchronous, and await will ask the execution to wait until the defined task gets executed",
+          "flipped": false
+        },
+        {
+        "id": 22,
+          "questions": "What is a .then used for?",
+          "answer": "It is used as a promise when having something resolved at a later point in time. The .then is called if a promise is met.",
+          "flipped": false
+        },
+        {
+        "id": 23,
+          "questions": "What is a .catch used for?",
+          "answer": "It is used is a promise is rejected, and is called at a later point in time if the .then cannot be resolved.",
+          "flipped": false
+        },
+        {
+        "id": 24,
+          "questions": "True of False: is it best practice to always include a .catch?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 25,
+          "questions": "How do you get promise results in React?",
+          "answer": "Promise values can be accessed by using await, or response and .then.",
+          "flipped": false
+        },
+        {
+        "id": 26,
+          "questions": "True or False: promises are asynchronus?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 27,
+          "questions": "What is a callback function?",
+          "answer": "A function that is passed into another function as an argument, which is used to be called as an action later on.",
+          "flipped": false
+        },
+        {
+        "id": 28,
+          "questions": "What is the difference between a callback and a promise?",
+          "answer": "A promise is an object which is used to handle the asynchronous result of an operation. The promise constructor takes one argument, a callback function with two parameters, resolve and reject.",
+          "flipped": false
+        },
+        {
+        "id": 29,
+          "questions": "What is the benefit of using an asynchronus function?",
+          "answer": "It allows for different types of code to run synonomously, which increases output speed.",
+          "flipped": false
+        },
+        {
+        "id": 30,
+          "questions": "True or False: an you pass a callback into a function?",
+          "answer": "True",
+          "flipped": false
+        }
+    ]
