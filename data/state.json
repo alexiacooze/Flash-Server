@@ -3,31 +3,31 @@
     {
     "id": 1,
       "questions": "True or False: State can be used in a class componenent?",
-      "answer": "create-react-app <file name>",
+      "answer": "True.",
       "flipped": false
     },
     {
     "id": 2,
       "questions": "True or False: State can be used in a functional componenent?",
-      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
+      "answer": "False.",
       "flipped": false
     },
     {
     "id": 3,
       "questions": "What is the purpse of using this.state?",
-      "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
+      "answer": "It is used to reference the state when using it within the component.",
       "flipped": false
     },
     {
     "id": 4,
       "questions": "What is the use of state?",
-      "answer": "MERN, MongoDB, Express, React, and Node. HTML, and CSS are used for the client-side UI.",
+      "answer": "It is used to create, store, and manage data.",
       "flipped": false
     },
     {
     "id": 5,
       "questions": "What is the use of props?",
-      "answer": "Javascript",
+      "answer": "It is used to pass data down to other components.",
       "flipped": false
     },
     {
@@ -44,26 +44,26 @@
     },
     {
     "id": 8,
-      "questions": "What are other common libraries that can be used instead of React?",
-      "answer": "Vue, and Express.",
+      "questions": "True or False: props can be used within a class component?",
+      "answer": "False.",
       "flipped": false
     },
     {
     "id": 9,
-      "questions": "What is the difference between ReactJS and React Native",
-      "answer": "ReactJS is best used for general applications, and React Native is best used for mobile applications.",
+      "questions": "True or False: state can only be changed once?",
+      "answer": "False.",
       "flipped": false
     },
     {
     "id": 10,
-      "questions": "How do you access the DOM in React?",
-      "answer": "Via lifecycle methods, i.e., componentDidMount and componentDidUpdate functions.",
+      "questions": "How is state changed?",
+      "answer": "It is changed via setState. When the new value is inputted, the component re-renders.",
       "flipped": false
     },
     {
     "id": 11,
-      "questions": "What are Components",
-      "answer": "Isolated, reusable bits of code that are specific to respective blocks of design within the UI",
+      "questions": "What is a state object",
+      "answer": "Property values that belongs to the component, that is stored within state.",
       "flipped": false
     },
     {
@@ -74,50 +74,50 @@
     },
     {
     "id": 13,
-      "questions": "What is a class componenet used for",
-      "answer": "It is primarily used when using state without hooks.",
+      "questions": "True or False: data from props can be changed?",
+      "answer": "False. Data from props can not be changed as it is read only. State must be changed in order for the props to change.",
       "flipped": false
     },
     {
     "id": 14,
-      "questions": "What is the purpose of using import within components",
-      "answer": "Import allows access to dependencies, and other information within different components.",
+      "questions": "What is a stateless component?",
+      "answer": "A component that does not hold a state, therefore it would be a functional component, if no hooks are used.",
       "flipped": false
     },
     {
     "id": 15,
-      "questions": "What are dependencies within React?",
-      "answer": "Third party code, libraries, or programs that are required for your code to run. I.e., installing SCSS insted of using CSS",
+      "questions": "Props is a colloquial term for what?",
+      "answer": "Properties.",
       "flipped": false
     },
     {
     "id": 16,
-      "questions": "How do you install dependencies within React?",
-      "answer": "Npm i <dependency>, within the terminal i.e., npm i scss",
+      "questions": "Where is state stored within the component?",
+      "answer": "Within a state variable, above the render, and return.",
       "flipped": false
     },
     {
     "id": 17,
-      "questions": "Where do you find your dependencies within React?",
-      "answer": "They can be found within both package-lock.json, and package.json.",
+      "questions": "True of False: event handlers can not update state?",
+      "answer": "False.",
       "flipped": false
     },
     {
     "id": 18,
-      "questions": "What is the purpose of the node_modules package that is installed when creating-react-app?",
-      "answer": "The node-modules hold external packages, and dependencies that are essential for running an effecitve React app.",
+      "questions": "What does the term 'lifting up state' mean?",
+      "answer": "Moving it up to the closest common ancestor of the components that need it.",
       "flipped": false
     },
     {
     "id": 19,
-      "questions": "What is a json file?",
-      "answer": "A framework",
+      "questions": "What is Redux used for?",
+      "answer": "It is an application for state management, via state tree's, which cant be changed directly.",
       "flipped": false
     },
     {
     "id": 20,
-      "questions": "What is the use for App.js vs. Index.js",
-      "answer": "A file that stores data within objects.",
+      "questions": "True or False: when using Redux, a state change will result in a new object being created?",
+      "answer": "True.",
       "flipped": false
     },
     {
@@ -128,56 +128,38 @@
     },
     {
     "id": 22,
-      "questions": "What is the purpose of a README.md file?",
-      "answer": "It is used to explain the decision making, steps, processes and intstallation steps of a project.",
+      "questions": "True or False: state is a reserved keyword within React?",
+      "answer": "False.",
       "flipped": false
     },
     {
     "id": 23,
-      "questions": "What is the difference between package-lock.json and package.json",
-      "answer": "Package-lock.json describes the exact tree generated, and allows subsequent package installations to use the most current version. Package.json includes general information about the project and it dependencies.",
+      "questions": "True or Falase: props can be passed to state",
+      "answer": "False.",
       "flipped": false
     },
     {
     "id": 24,
-      "questions": "What is the purpose of a .gitignore?",
-      "answer": "To remove any files, folders, modules etc. from the general visibility of the code. Anything included within the .gitignore will not be shown within git repositories.",
+      "questions": "What does it mean for something to be immutable?",
+      "answer": "That the original component does not allow change.",
       "flipped": false
     },
     {
     "id": 25,
-      "questions": "What is JSX?",
-      "answer": "JSX allows us to write HTML in React. It is an extension of Javascript.",
+      "questions": "What does it mean for somehting to be mutable?",
+      "answer": "That the original component does allow for change.",
       "flipped": false
     },
     {
     "id": 26,
-      "questions": "Is Javscript used before or after the return within components?",
-      "answer": "It is placed before.",
+      "questions": "Are props and state mutable or immutable?",
+      "answer": "Props are immutable and state is mutable.",
       "flipped": false
     },
     {
     "id": 27,
-      "questions": "Is JSX used before or after the return within components",
-      "answer": "It is placed after.",
-      "flipped": false
-    },
-    {
-    "id": 28,
-      "questions": "True or False: JSX converts HTML tags into react elements?",
-      "answer": "True",
-      "flipped": false
-    },
-    {
-    "id": 29,
-      "questions": "What is interpolation within JSX?",
-      "answer": "Interpolation is used to interpret Javascript when it is being used below the return. Interpolation uses curly braces to interpret the Javascript i.e., onClick={}",
-      "flipped": false
-    },
-    {
-    "id": 30,
-      "questions": "True or False: it us best practice to always include semicolons to seperate lines of code?",
-      "answer": "True",
+      "questions": "Are state and props used within both front-end and back-end developement?",
+      "answer": "No it is only used within front-end developement.",
       "flipped": false
     }
 ]
