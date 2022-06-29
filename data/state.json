@@ -1,0 +1,183 @@
+
+[
+    {
+    "id": 1,
+      "questions": "True or False: State can be used in a class componenent?",
+      "answer": "create-react-app <file name>",
+      "flipped": false
+    },
+    {
+    "id": 2,
+      "questions": "True or False: State can be used in a functional componenent?",
+      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
+      "flipped": false
+    },
+    {
+    "id": 3,
+      "questions": "What is the purpse of using this.state?",
+      "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
+      "flipped": false
+    },
+    {
+    "id": 4,
+      "questions": "What is the use of state?",
+      "answer": "MERN, MongoDB, Express, React, and Node. HTML, and CSS are used for the client-side UI.",
+      "flipped": false
+    },
+    {
+    "id": 5,
+      "questions": "What is the use of props?",
+      "answer": "Javascript",
+      "flipped": false
+    },
+    {
+    "id": 6,
+      "questions": "What is the difference between curly braces {} and parenthesis () in React?",
+      "answer": "{} are used when using JSX, and () are used when invoking",
+      "flipped": false
+    },
+    {
+    "id": 7,
+      "questions": "What is React?",
+      "answer": "A front-end Javascript library",
+      "flipped": false
+    },
+    {
+    "id": 8,
+      "questions": "What are other common libraries that can be used instead of React?",
+      "answer": "Vue, and Express.",
+      "flipped": false
+    },
+    {
+    "id": 9,
+      "questions": "What is the difference between ReactJS and React Native",
+      "answer": "ReactJS is best used for general applications, and React Native is best used for mobile applications.",
+      "flipped": false
+    },
+    {
+    "id": 10,
+      "questions": "How do you access the DOM in React?",
+      "answer": "Via lifecycle methods, i.e., componentDidMount and componentDidUpdate functions.",
+      "flipped": false
+    },
+    {
+    "id": 11,
+      "questions": "What are Components",
+      "answer": "Isolated, reusable bits of code that are specific to respective blocks of design within the UI",
+      "flipped": false
+    },
+    {
+    "id": 12,
+      "questions": "What is a functional componenet used for?",
+      "answer": "Functional componenets are used when state is being passed down as a prop.",
+      "flipped": false
+    },
+    {
+    "id": 13,
+      "questions": "What is a class componenet used for",
+      "answer": "It is primarily used when using state without hooks.",
+      "flipped": false
+    },
+    {
+    "id": 14,
+      "questions": "What is the purpose of using import within components",
+      "answer": "Import allows access to dependencies, and other information within different components.",
+      "flipped": false
+    },
+    {
+    "id": 15,
+      "questions": "What are dependencies within React?",
+      "answer": "Third party code, libraries, or programs that are required for your code to run. I.e., installing SCSS insted of using CSS",
+      "flipped": false
+    },
+    {
+    "id": 16,
+      "questions": "How do you install dependencies within React?",
+      "answer": "Npm i <dependency>, within the terminal i.e., npm i scss",
+      "flipped": false
+    },
+    {
+    "id": 17,
+      "questions": "Where do you find your dependencies within React?",
+      "answer": "They can be found within both package-lock.json, and package.json.",
+      "flipped": false
+    },
+    {
+    "id": 18,
+      "questions": "What is the purpose of the node_modules package that is installed when creating-react-app?",
+      "answer": "The node-modules hold external packages, and dependencies that are essential for running an effecitve React app.",
+      "flipped": false
+    },
+    {
+    "id": 19,
+      "questions": "What is a json file?",
+      "answer": "A framework",
+      "flipped": false
+    },
+    {
+    "id": 20,
+      "questions": "What is the use for App.js vs. Index.js",
+      "answer": "A file that stores data within objects.",
+      "flipped": false
+    },
+    {
+    "id": 21,
+      "questions": "True or False: Data within a JSON file is stored as a key:value pair?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 22,
+      "questions": "What is the purpose of a README.md file?",
+      "answer": "It is used to explain the decision making, steps, processes and intstallation steps of a project.",
+      "flipped": false
+    },
+    {
+    "id": 23,
+      "questions": "What is the difference between package-lock.json and package.json",
+      "answer": "Package-lock.json describes the exact tree generated, and allows subsequent package installations to use the most current version. Package.json includes general information about the project and it dependencies.",
+      "flipped": false
+    },
+    {
+    "id": 24,
+      "questions": "What is the purpose of a .gitignore?",
+      "answer": "To remove any files, folders, modules etc. from the general visibility of the code. Anything included within the .gitignore will not be shown within git repositories.",
+      "flipped": false
+    },
+    {
+    "id": 25,
+      "questions": "What is JSX?",
+      "answer": "JSX allows us to write HTML in React. It is an extension of Javascript.",
+      "flipped": false
+    },
+    {
+    "id": 26,
+      "questions": "Is Javscript used before or after the return within components?",
+      "answer": "It is placed before.",
+      "flipped": false
+    },
+    {
+    "id": 27,
+      "questions": "Is JSX used before or after the return within components",
+      "answer": "It is placed after.",
+      "flipped": false
+    },
+    {
+    "id": 28,
+      "questions": "True or False: JSX converts HTML tags into react elements?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 29,
+      "questions": "What is interpolation within JSX?",
+      "answer": "Interpolation is used to interpret Javascript when it is being used below the return. Interpolation uses curly braces to interpret the Javascript i.e., onClick={}",
+      "flipped": false
+    },
+    {
+    "id": 30,
+      "questions": "True or False: it us best practice to always include semicolons to seperate lines of code?",
+      "answer": "True",
+      "flipped": false
+    }
+]

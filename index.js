@@ -15,4 +15,10 @@ app.use("/api", apiRoutes);
 const terminalRoutes = require("./routes/terminal");
 app.use("/terminal", terminalRoutes);
 
+const hooksRoutes = require("./routes/hooks");
+app.use("/hooks", hooksRoutes);
+
+const statesRoutes = require("./routes/state");
+app.use("/state", statesRoutes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));

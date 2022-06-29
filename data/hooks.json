@@ -1,0 +1,183 @@
+
+[
+    {
+    "id": 1,
+      "questions": "What is the purpose of useState()?",
+      "answer": "create-react-app <file name>",
+      "flipped": false
+    },
+    {
+    "id": 2,
+      "questions": "What is the purpose of useEffect()?",
+      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
+      "flipped": false
+    },
+    {
+    "id": 3,
+      "questions": "What is the purpose of useContext()?",
+      "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
+      "flipped": false
+    },
+    {
+    "id": 4,
+      "questions": "What is the purpose of useReducer()?",
+      "answer": "MERN, MongoDB, Express, React, and Node. HTML, and CSS are used for the client-side UI.",
+      "flipped": false
+    },
+    {
+    "id": 5,
+      "questions": "What is the purpose of useMemo()?",
+      "answer": "Javascript",
+      "flipped": false
+    },
+    {
+    "id": 6,
+      "questions": "What is the purpose of useCallback()?",
+      "answer": "{} are used when using JSX, and () are used when invoking",
+      "flipped": false
+    },
+    {
+    "id": 7,
+      "questions": "What is the purpose of useImperativeHandle()?",
+      "answer": "A front-end Javascript library",
+      "flipped": false
+    },
+    {
+    "id": 8,
+      "questions": "What is the purpose of useDebuhgValue()??",
+      "answer": "Vue, and Express.",
+      "flipped": false
+    },
+    {
+    "id": 9,
+      "questions": "What is the purpose of useRef()?",
+      "answer": "ReactJS is best used for general applications, and React Native is best used for mobile applications.",
+      "flipped": false
+    },
+    {
+    "id": 10,
+      "questions": "What is the purpose of useLayoutEffect()?",
+      "answer": "Via lifecycle methods, i.e., componentDidMount and componentDidUpdate functions.",
+      "flipped": false
+    },
+    {
+    "id": 11,
+      "questions": "True or False: Can useState be used within funtional componenents?",
+      "answer": "True.",
+      "flipped": false
+    },
+    {
+    "id": 12,
+      "questions": "True or False: Can useState be used within class componenents?",
+      "answer": "True.",
+      "flipped": false
+    },
+    {
+    "id": 13,
+      "questions": "What is a class componenet used for",
+      "answer": "It is primarily used when using state without hooks.",
+      "flipped": false
+    },
+    {
+    "id": 14,
+      "questions": "Is this.state or this.setState useful while using a useState hook?",
+      "answer": "No, hooks will remove the this.state and will use the useState value within the hook.",
+      "flipped": false
+    },
+    {
+    "id": 15,
+      "questions": "What is the first variable (state) found with a useState hook? [state, setState] = useState()",
+      "answer": "Third party code, libraries, or programs that are required for your code to run. I.e., installing SCSS insted of using CSS",
+      "flipped": false
+    },
+    {
+    "id": 16,
+      "questions": "What is a second variable (setState) found within a useState hook i.e., [state, setState] = useState() ?",
+      "answer": "Npm i <dependency>, within the terminal i.e., npm i scss",
+      "flipped": false
+    },
+    {
+    "id": 17,
+      "questions": "True or False: useState() can take boolean values i.e., useState(false)?",
+      "answer": "True.",
+      "flipped": false
+    },
+    {
+    "id": 18,
+      "questions": "True or False: useState() can take array objects values i.e., useState([{name: pat, age: 30}])?",
+      "answer": "True.",
+      "flipped": false
+    },
+    {
+    "id": 19,
+      "questions": "To change/ update state within useState, what will you use?",
+      "answer": "setState is used to update the state within the hook.",
+      "flipped": false
+    },
+    {
+    "id": 20,
+      "questions": "True or False: useEffect is used for making api calls?",
+      "answer": "True.",
+      "flipped": false
+    },
+    {
+    "id": 21,
+      "questions": "True or False: useContext can be used to make api calls?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 22,
+      "questions": "True or FalsE: hooks must be imported to be used?",
+      "answer": "True.",
+      "flipped": false
+    },
+    {
+    "id": 23,
+      "questions": "True or False: Imports are always at the bottom of the document?",
+      "answer": "False.",
+      "flipped": false
+    },
+    {
+    "id": 24,
+      "questions": "What is useEffect with cleanup?",
+      "answer": "Allows the screen to be changed by the browser. It allows components to change after it is rendered.",
+      "flipped": false
+    },
+    {
+    "id": 25,
+      "questions": "What is useEffect with cleanup?",
+      "answer": "Saves the application from memory leaks, and unwated memory storage, via cleaning up the effect after the component unmmounts.",
+      "flipped": false
+    },
+    {
+    "id": 26,
+      "questions": "Is Javscript used before or after the return within components?",
+      "answer": "It is placed before.",
+      "flipped": false
+    },
+    {
+    "id": 27,
+      "questions": "Is JSX used before or after the return within components",
+      "answer": "It is placed after.",
+      "flipped": false
+    },
+    {
+    "id": 28,
+      "questions": "True or False: JSX converts HTML tags into react elements?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 29,
+      "questions": "What is interpolation within JSX?",
+      "answer": "Interpolation is used to interpret Javascript when it is being used below the return. Interpolation uses curly braces to interpret the Javascript i.e., onClick={}",
+      "flipped": false
+    },
+    {
+    "id": 30,
+      "questions": "True or False: it us best practice to always include semicolons to seperate lines of code?",
+      "answer": "True",
+      "flipped": false
+    }
+]
