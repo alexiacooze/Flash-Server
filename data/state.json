@@ -32,14 +32,14 @@
     },
     {
     "id": 6,
-      "questions": "What is the difference between curly braces {} and parenthesis () in React?",
-      "answer": "{} are used when using JSX, and () are used when invoking",
+      "questions": "True or False: state can only be passed upwards?",
+      "answer": "False, state can only be passed downwards.",
       "flipped": false
     },
     {
     "id": 7,
-      "questions": "What is React?",
-      "answer": "A front-end Javascript library",
+      "questions": "Should state be held within the parent or child component?",
+      "answer": "Parent.",
       "flipped": false
     },
     {

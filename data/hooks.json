@@ -3,61 +3,61 @@
     {
     "id": 1,
       "questions": "What is the purpose of useState()?",
-      "answer": "create-react-app <file name>",
+      "answer": "Allows for state to be used within functional components.",
       "flipped": false
     },
     {
     "id": 2,
       "questions": "What is the purpose of useEffect()?",
-      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
+      "answer": "Reduces the need for lifecycle methods, such as fetching data from an API, or chaning the DOM within the component",
       "flipped": false
     },
     {
     "id": 3,
       "questions": "What is the purpose of useContext()?",
-      "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
+      "answer": "Allows for state and props to be passed to different componenets, without the need of having it passed directly down via prop drilling.",
       "flipped": false
     },
     {
     "id": 4,
       "questions": "What is the purpose of useReducer()?",
-      "answer": "MERN, MongoDB, Express, React, and Node. HTML, and CSS are used for the client-side UI.",
+      "answer": "It is an alternative to useState, for more complex state management. Best used when the next state depends on the previous state.",
       "flipped": false
     },
     {
     "id": 5,
       "questions": "What is the purpose of useMemo()?",
-      "answer": "Javascript",
+      "answer": "Prevents expensive functions from being run on every render. Values are stored in memory, and then reused from the memory when inputs have changed.",
       "flipped": false
     },
     {
     "id": 6,
       "questions": "What is the purpose of useCallback()?",
-      "answer": "{} are used when using JSX, and () are used when invoking",
+      "answer": "It stores the callback within memory, and when it is called it will only change is the dependencies have changed.",
       "flipped": false
     },
     {
     "id": 7,
       "questions": "What is the purpose of useImperativeHandle()?",
-      "answer": "A front-end Javascript library",
+      "answer": "Allows for the modification of the ref instance, when it is exposed from parent components.",
       "flipped": false
     },
     {
     "id": 8,
-      "questions": "What is the purpose of useDebuhgValue()??",
-      "answer": "Vue, and Express.",
+      "questions": "What is the purpose of useDebugValue()?",
+      "answer": "It displays additional information and logic of a custom Hook.",
       "flipped": false
     },
     {
     "id": 9,
       "questions": "What is the purpose of useRef()?",
-      "answer": "ReactJS is best used for general applications, and React Native is best used for mobile applications.",
+      "answer": "Allows the storage of a mutable value, which prevents a re-render when updated.",
       "flipped": false
     },
     {
     "id": 10,
       "questions": "What is the purpose of useLayoutEffect()?",
-      "answer": "Via lifecycle methods, i.e., componentDidMount and componentDidUpdate functions.",
+      "answer": "Allows for reading of the layout from the DOM,and synchronous re-rendering.",
       "flipped": false
     },
     {
@@ -87,13 +87,13 @@
     {
     "id": 15,
       "questions": "What is the first variable (state) found with a useState hook? [state, setState] = useState()",
-      "answer": "Third party code, libraries, or programs that are required for your code to run. I.e., installing SCSS insted of using CSS",
+      "answer": "The name of the state",
       "flipped": false
     },
     {
     "id": 16,
       "questions": "What is a second variable (setState) found within a useState hook i.e., [state, setState] = useState() ?",
-      "answer": "Npm i <dependency>, within the terminal i.e., npm i scss",
+      "answer": "The change or alteration of the original state.",
       "flipped": false
     },
     {
@@ -116,19 +116,19 @@
     },
     {
     "id": 20,
-      "questions": "True or False: useEffect is used for making api calls?",
+      "questions": "True or False: useEffect is used for making API calls?",
       "answer": "True.",
       "flipped": false
     },
     {
     "id": 21,
-      "questions": "True or False: useContext can be used to make api calls?",
+      "questions": "True or False: useContext can be used to make API calls?",
       "answer": "False",
       "flipped": false
     },
     {
     "id": 22,
-      "questions": "True or FalsE: hooks must be imported to be used?",
+      "questions": "True or False: hooks must be imported to be used?",
       "answer": "True.",
       "flipped": false
     },
@@ -146,37 +146,37 @@
     },
     {
     "id": 25,
-      "questions": "What is useEffect with cleanup?",
+      "questions": "What is useEffect without cleanup?",
       "answer": "Saves the application from memory leaks, and unwated memory storage, via cleaning up the effect after the component unmmounts.",
       "flipped": false
     },
     {
     "id": 26,
-      "questions": "Is Javscript used before or after the return within components?",
-      "answer": "It is placed before.",
+      "questions": "True or False: hooks must be imported with curly braces?",
+      "answer": "True.",
       "flipped": false
     },
     {
     "id": 27,
-      "questions": "Is JSX used before or after the return within components",
-      "answer": "It is placed after.",
+      "questions": "True or False: hooks can only be called at the top level of a component.",
+      "answer": "True.",
       "flipped": false
     },
     {
     "id": 28,
-      "questions": "True or False: JSX converts HTML tags into react elements?",
-      "answer": "True",
+      "questions": "True or False: hooks can be conditonal?",
+      "answer": "False.",
       "flipped": false
     },
     {
     "id": 29,
-      "questions": "What is interpolation within JSX?",
-      "answer": "Interpolation is used to interpret Javascript when it is being used below the return. Interpolation uses curly braces to interpret the Javascript i.e., onClick={}",
+      "questions": "What is the purpose of a custom hook?",
+      "answer": "To create state that can be reused within different components",
       "flipped": false
     },
     {
     "id": 30,
-      "questions": "True or False: it us best practice to always include semicolons to seperate lines of code?",
+      "questions": "True or False: use context removed the need for prop drilling?",
       "answer": "True",
       "flipped": false
     }
