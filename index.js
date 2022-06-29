@@ -27,9 +27,6 @@ app.use("/conditionals", conditionalsRoutes);
 const importsRoutes = require("./routes/imports");
 app.use("/imports", importsRoutes);
 
-const lifeCycleRoutes = require("./routes/lifecycle");
-app.use("/lifecycle", lifeCycleRoutes);
-
 const routingRoutes = require("./routes/routing");
 app.use("/routing", routingRoutes);
 
