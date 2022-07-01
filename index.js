@@ -39,4 +39,13 @@ app.use("/forms", formsRoutes);
 const advancedRoutes = require("./routes/advanced");
 app.use("/advanced", advancedRoutes);
 
+const cssRoutes = require("./routes/css");
+app.use("/css", cssRoutes);
+
+// const responsiveRoutes = require("./routes/responsive");
+// app.use("/responsive", responsiveRoutes);
+
+// const scssRoutes = require("./routes/sss");
+// app.use("/scss", scssRoutes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));
