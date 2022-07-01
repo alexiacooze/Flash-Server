@@ -33,4 +33,7 @@ app.use("/html-basics", htmlBasicRoutes);
 const elementsRoutes = require("./routes/elements");
 app.use("/elements-attributes", elementsRoutes);
 
+const formsRoutes = require("./routes/forms");
+app.use("/forms", formsRoutes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));
