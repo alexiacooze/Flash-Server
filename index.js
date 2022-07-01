@@ -36,4 +36,7 @@ app.use("/elements-attributes", elementsRoutes);
 const formsRoutes = require("./routes/forms");
 app.use("/forms", formsRoutes);
 
+const advancedRoutes = require("./routes/advanced");
+app.use("/advanced", advancedRoutes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));

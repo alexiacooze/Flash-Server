@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+          "questions": "What is a block level element?",
+          "answer": "An element always starts on a new line, and the browsers automatically add some space (a margin) before and after the element.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What is a block level element?",
+          "answer": "An element that does not start on a new line, and only takes up as much space as necessary.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "What is the <span> element used for?",
+          "answer": "It is used inline within a container to wrap part of a text or the document with its own specific attributes, styles, classes and id's.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "What is the class attribute used for?",
+          "answer": "It is used to point to a class name in a style sheet such as CSS or SCSS.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "Is the class name case sensitive?",
+          "answer": "Yes.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is the id attribute used for?",
+          "answer": "It is used to specify a unique id for an HTML element.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "How many times an id attributes be used?",
+          "answer": "Id's can only be used once.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "True or False: id attributes are only HTML specific?",
+          "answer": "False, they can also be used within javascript, and other frameworks/libraries.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "How are id's referenced within a CSS style sheet?",
+          "answer": "It is referenced by using a #.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "Is the # a reserved key within HTML?",
+          "answer": "No, it is only reserved within CSS.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What is the difference between a class and an id?",
+          "answer": "A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "True or False: the id attribute within HTML is accessible within Javascript ?",
+          "answer": "True, id can be accessed by DOM manipulation.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "True or False: the <iframe> tag specifies an inline frame?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "True or False: It is best practice to not include the title attribute within <iframe>?",
+          "answer": "False, it is best practice to always include the title attribute.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "What is the main use of a <select> tag?",
+          "answer": "It creates a drop down menu.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "True of False: <iframe> tags allow for inline styling?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "<What does XHTML stand for?",
+          "answer": "EXtensible HyperText Markup Language.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "Is HTML or XHTML more strict?",
+          "answer": "XHTML.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What is XHTML?",
+          "answer": "XHTML is a stricter, more XML-based version of HTML.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "True of False: XHTML is supported by all major browsers?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "True or False: <!DOCTYPE> is mandatory within XHTML?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 22,
+          "questions": "True or False: XHTML elements must always be closed?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 23,
+          "questions": "What is the <svg> tag used for?",
+          "answer": "It is used for SVG graphics.",
+          "flipped": false
+        },
+        {
+        "id": 24,
+          "questions": "True or False: SVG's are imported image specific?",
+          "answer": "False.",
+          "flipped": false
+        },
+        {
+        "id": 25,
+          "questions": "What is the difference between SVG and canvas?",
+          "answer": "SVG is a language for describing 2D graphics in XML. Canvas draws 2D graphics.",
+          "flipped": false
+        },
+        {
+        "id": 26,
+          "questions": "What tag is used for videos within HTML?",
+          "answer": "<video>",
+          "flipped": false
+        }
+    ]
