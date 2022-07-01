@@ -30,4 +30,7 @@ app.use("/routing", routingRoutes);
 const htmlBasicRoutes = require("./routes/htmlBasics");
 app.use("/html-basics", htmlBasicRoutes);
 
+const elementsRoutes = require("./routes/elements");
+app.use("/elements-attributes", elementsRoutes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));
