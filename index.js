@@ -24,10 +24,10 @@ app.use("/state", statesRoutes);
 const conditionalsRoutes = require("./routes/conditionals");
 app.use("/conditionals", conditionalsRoutes);
 
-const importsRoutes = require("./routes/imports");
-app.use("/imports", importsRoutes);
-
 const routingRoutes = require("./routes/routing");
 app.use("/routing", routingRoutes);
+
+const htmlBasicRoutes = require("./routes/htmlBasics");
+app.use("/html-basics", htmlBasicRoutes);
 
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));
