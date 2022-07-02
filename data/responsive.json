@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+          "questions": "What is responsive design?",
+          "answer": "Allows for the webpage to adjust its display based on the screen size.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What are the 3 most common devices for RWD?",
+          "answer": "Desktop, tablet, phone.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "What device would 320px be for?",
+          "answer": "Phone.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "What is a viewport?",
+          "answer": "A user's visible area of a web page.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "Is it best to use fixed width elements or media queries for responsive design?",
+          "answer": "Best practice is to use media queries.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is a grid view?",
+          "answer": "Grid View means the grid is divided into columns.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "What is the purpose of the box-sizing property?",
+          "answer": "It allows us to include the padding and border in an element's total width and height.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "What is a media query.",
+          "answer": "It is a rule that is set for certain screen widths to change the design on teh page depending on the screen width.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "True of False: media queries require breakpoints",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "What is a breakpoint?",
+          "answer": "Breakpoints is a line of code that specifies where certain parts of the web page will change depending on the the width of the screen.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What is the @media rule used for?",
+          "answer": "The @media rule is used to include a block of CSS properties only if a certain condition is true.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "True of False: media queries can adjust font size?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "Are media queries placed within the style sheet or the body of HTML?",
+          "answer": "CSS style sheet",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "How many breakpoints are  media queries limited to?",
+          "answer": "There is no limit.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "Are SVG's or PNG's better for RWD?",
+          "answer": "SVG",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "What is a relative unit?",
+          "answer": "It is a unit of measurement that calculates the length in relation to other elements.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "What is an absolute unit?",
+          "answer": "It is a unit of measurement that always indicates a fixed length.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "Are absolute units or relative units better for design?",
+          "answer": "Relative units are better, as it adapts to different breakpoints and screen widths.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What is the most common example of an absolute unit?",
+          "answer": "pixels or px.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "Name 3 examples of a relative unit",
+          "answer": "percentage, vh, vw, vmax, vmin, em, and rem.",
+          "flipped": false
+        }
+    ]
