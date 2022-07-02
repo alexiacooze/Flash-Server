@@ -45,7 +45,7 @@ app.use("/css", cssRoutes);
 const responsiveRoutes = require("./routes/responsive");
 app.use("/responsive", responsiveRoutes);
 
-// const scssRoutes = require("./routes/sss");
-// app.use("/scss", scssRoutes);
+const scssRoutes = require("./routes/scss");
+app.use("/sass", scssRoutes);
 
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));

@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+          "questions": "What does SASS stand for?",
+          "answer": "Syntactically Awesome Style Sheets.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What is SASS?",
+          "answer": "A css preprocessor.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "What the benefit of using SCSS?",
+          "answer": "It reduced the amount of code needed via nesting, variables, and mixins.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "Can SCSS be used with other libraries and frameworks?",
+          "answer": "Yes.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "Is it client side or server side specific?",
+          "answer": "Client side.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "True or False: SCSS alerts when there is a parsing error.",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "True or False: URL can take either a quoted or unquoted URL?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "What is @font-face used for?",
+          "answer": "It is used for including external fonts, which can then be used throughout the rest of the document.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "True of False: Sass will automatically combine a selectors outer rule's with a selector inner rule.",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "How are selector lists separated?",
+          "answer": "They are separated with a comma.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "How are values assigned to variables?",
+          "answer": "They are assigned via $",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "True of False: media queries can be used as mixins?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "True or False: media queries be nested with the selectors and their nested classes?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "True or False: media query breakpoints can be make as mixins, and variables?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "True or False: SVG's can be made as variables?",
+          "answer": "False.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "True or False: Scope is non existent within sass?",
+          "answer": "False.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "True or False: Sass can be installed as an npm package?",
+          "answer": "It is a unit of measurement that always indicates a fixed length.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "How does the browser read scss?",
+          "answer": "It has to be first compiled into css, as the browser can not read scss.",
+          "flipped": false
+        }
+    ]
