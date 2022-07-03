@@ -48,4 +48,16 @@ app.use("/responsive", responsiveRoutes);
 const scssRoutes = require("./routes/scss");
 app.use("/sass", scssRoutes);
 
+const jsBasicRoutes = require("./routes/jsBasic");
+app.use("/js-basic", jsBasicRoutes);
+
+const jsAdvancedRoutes = require("./routes/jsAdvanced");
+app.use("/js-advanced", jsAdvancedRoutes);
+
+const domRoutes = require("./routes/domManipulation");
+app.use("/dom", domRoutes);
+
+const es6Routes = require("./routes/es6");
+app.use("/es6", es6Routes);
+
 app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));
