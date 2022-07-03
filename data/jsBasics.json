@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+          "questions": "In HTML, what tags are used to insert JS code?",
+          "answer": "<script> tags",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What is a function?",
+          "answer": "a block of JavaScript code, that can be executed when 'called' for.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "Other than the script tag, where can JS code be placed?",
+          "answer": "Within an external script file.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "Is the script tag placed within the top or bottom of the document?",
+          "answer": "It can be placed anywhere within the document.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "What does it mean to invoke a function?",
+          "answer": "Invoking a function calls the original function upon request.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is the file extension used for external script files?",
+          "answer": ".js",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "How is the external script file linked to the original HTML file?",
+          "answer": "The name of the script file is placed in the src attribute of a <script> tag.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "Why is it best practice to place the script tag at the bottom?",
+          "answer": "The script will behave as if it was located exactly where the <script> tag is located.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "Can different script files use the same script tags?",
+          "answer": "No each script file needs its own tag within the HTML document.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "What are the 3 ways an external script can be referenced?",
+          "answer": "With a full URL, with a file path, without any path.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What type of reference is the follow line of code: <script src='/js/myScript.js'></script>?",
+          "answer": "A file path link.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "What type of reference is the follow line of code: <script src='myScript.js'></script>?",
+          "answer": "No path is used to link.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "What is the use of console.log?",
+          "answer": "It will write into the browser console, it can be used to test code output.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "True or False: using document.write() after an HTML document is loaded, will delete all existing HTML:?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "What is use of window.alert()?",
+          "answer": "To use an alert box to display data.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "What is the use of window.print()?",
+          "answer": "It will print the content of the current window.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "What is a global scope object?",
+          "answer": "Variables, properties, and methods by default belong to the window object. .",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "True or False: JS does not ignore white space?",
+          "answer": "False, whitespace could be included to increase code readability.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What are JavaScript statements composed of?",
+          "answer": "Values, Operators, Expressions, Keywords, and Comments.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "True of False: JavaScript program is a list of programming statements?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "True or False: programming instructions are called statements?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 22,
+          "questions": "True or False: JavaScript statements can be grouped together in code blocks, inside curly brackets {...}?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 23,
+          "questions": "Describe what the following keyword is used for: let?",
+          "answer": "Declares a block variable.",
+          "flipped": false
+        },
+        {
+        "id": 24,
+          "questions": "Describe what the following keyword is used for: if?",
+          "answer": "Marks a block of statements to be executed on a condition.",
+          "flipped": false
+        },
+        {
+        "id": 25,
+          "questions": "Describe what the following keyword is used for: const?",
+          "answer": "Declares a block constant.",
+          "flipped": false
+        },
+        {
+        "id": 26,
+          "questions": "Describe what the following keyword is used for: return?",
+          "answer": "Exits a function.",
+          "flipped": false
+        }
+    ]
