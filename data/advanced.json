@@ -2,7 +2,7 @@
     {
         "id": 1,
           "questions": "What is an array method?",
-          "answer": "functions built-in to JavaScript that we can apply to arrays.",
+          "answer": "Functions built-in to JavaScript that can be applied to arrays.",
           "flipped": false
         },
         {
@@ -74,7 +74,7 @@
         {
         "id": 13,
           "questions": "What is the array method .map used for?",
-          "answer": "Creates a new array with the result of calling a function for each array element",
+          "answer": "Creates a new array with the result of calling a function for each array element.",
           "flipped": false
         },
         {
@@ -110,7 +110,7 @@
         {
         "id": 19,
           "questions": "What is the array method .at used for?",
-          "answer": "Takes an integer value and returns the item at that index,.",
+          "answer": "Takes an integer value and returns the item at that index.",
           "flipped": false
         },
         {

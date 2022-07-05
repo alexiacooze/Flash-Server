@@ -8,7 +8,7 @@
         {
         "id": 2,
           "questions": "What is SASS?",
-          "answer": "A css preprocessor.",
+          "answer": "A CSS preprocessor.",
           "flipped": false
         },
         {
@@ -19,8 +19,8 @@
         },
         {
         "id": 4,
-          "questions": "Can SCSS be used with other libraries and frameworks?",
-          "answer": "Yes.",
+          "questions": "True or False: SCSS be used with other libraries and frameworks?",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -31,14 +31,14 @@
         },
         {
         "id": 6,
-          "questions": "True or False: SCSS alerts when there is a parsing error.",
-          "answer": "True.",
+          "questions": "True or False: SCSS alerts when there is a parsing error?",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 7,
           "questions": "True or False: URL can take either a quoted or unquoted URL?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -62,13 +62,13 @@
         {
         "id": 11,
           "questions": "How are values assigned to variables?",
-          "answer": "They are assigned via $",
+          "answer": "They are assigned via $.",
           "flipped": false
         },
         {
         "id": 12,
           "questions": "True of False: media queries can be used as mixins?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -80,19 +80,19 @@
         {
         "id": 14,
           "questions": "True or False: media query breakpoints can be make as mixins, and variables?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 15,
           "questions": "True or False: SVG's can be made as variables?",
-          "answer": "False.",
+          "answer": "False",
           "flipped": false
         },
         {
         "id": 16,
-          "questions": "True or False: Scope is non existent within sass?",
-          "answer": "False.",
+          "questions": "True or False: Scope is non existent within SASS?",
+          "answer": "False",
           "flipped": false
         },
         {
@@ -103,8 +103,8 @@
         },
         {
         "id": 18,
-          "questions": "How does the browser read scss?",
-          "answer": "It has to be first compiled into css, as the browser can not read scss.",
+          "questions": "How does the browser read SCSS?",
+          "answer": "It has to be first compiled into CSS, as the browser can not read SCSS.",
           "flipped": false
         }
     ]

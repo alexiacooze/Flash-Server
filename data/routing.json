@@ -7,7 +7,7 @@
         },
         {
         "id": 2,
-          "questions": "What is the most current verison of react-router?",
+          "questions": "What is the most current version of react-router?",
           "answer": "react-router-dom@6.",
           "flipped": false
         },
@@ -20,31 +20,31 @@
         {
         "id": 4,
           "questions": "True or False: react-router @6 uses switch statements?",
-          "answer": "False.",
+          "answer": "False",
           "flipped": false
         },
         {
         "id": 5,
           "questions": "True or False: react-router @5.3 uses switch statements?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 6,
           "questions": "What is used instead of a switch statement when setting up react routes?",
-          "answer": "<Routes> <Routes/>",
+          "answer": "<Routes> <Routes/>.",
           "flipped": false
         },
         {
         "id": 7,
           "questions": "True or False: any component placed above a switch statement will be see as global, and will render on every component?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 8,
           "questions": "True or False: react-router @5.3 uses element={} instead of component={} within the component route?",
-          "answer": "False. This is only used by reat-router-dom@6.",
+          "answer": "False. This is only used by react-router-dom@6.",
           "flipped": false
         },
         {
@@ -55,13 +55,13 @@
         },
         {
         "id": 10,
-          "questions": "True or False: Route is comparible to href in HTML?",
-          "answer": "True.",
+          "questions": "True or False: Route is comparable to href in HTML?",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 11,
-          "questions": "True of False: the path within a component does not correspond to the path found within the corresponing component URL?",
+          "questions": "True of False: the path within a component does not correspond to the path found within the corresponding component URL?",
           "answer": "False. The path set within the route is the path that is linked to the component, and therefore will be the same within the URL.",
           "flipped": false
         },
@@ -92,7 +92,7 @@
         {
         "id": 16,
           "questions": "What can <NavLink> do, that <Link> can not do?",
-          "answer": "NavLink can be used to add style attributes directly to the active routes",
+          "answer": "NavLink can be used to add style attributes directly to the active routes.",
           "flipped": false
         },
         {
@@ -116,18 +116,18 @@
         {
         "id": 20,
           "questions": "True or False: App.js is most commonly used for storing the component routes?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 21,
           "questions": "True or False: in order for <Link> or <NavLink> to work, the paths much be identical to the component route paths?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 22,
-          "questions": "Does the hierarchy of the route affect how it is displayed on the page??",
+          "questions": "Does the hierarchy of the route affect how it is displayed on the page?",
           "answer": "Yes, the routes must be place sequentially in order for the components to properly render on the page.",
           "flipped": false
         }

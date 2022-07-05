@@ -3,13 +3,13 @@
     {
     "id": 1,
       "questions": "Npm git reset --hard is used for what?",
-      "answer": "To revert any changes and reset code back to the previous state prior to committing changes",
+      "answer": "To revert any changes and reset code back to the previous state prior to committing changes.",
       "flipped": false
     },
     {
     "id": 2,
       "questions": "What is the difference between npm and yarn?",
-      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files",
+      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files.",
       "flipped": false
     },
     {
@@ -27,25 +27,25 @@
     {
     "id": 5,
       "questions": "Git add . is used for what?",
-      "answer": "To add all current files to the stage ",
+      "answer": "To add all current files to the stage.",
       "flipped": false
     },
     {
     "id": 6,
       "questions": "Git status is used for what?",
-      "answer": "To check the status of the of your working tree",
+      "answer": "To check the status of the of your working tree.",
       "flipped": false
     },
     {
     "id": 7,
       "questions": "Npm checkout -b is used for what?",
-      "answer": "To create a new branch",
+      "answer": "To create a new branch.",
       "flipped": false
     },
     {
     "id": 8,
       "questions": "Cd is used for what?",
-      "answer": "To enter into the file, folder or section",
+      "answer": "To enter into the file, folder or section.",
       "flipped": false
     },
     {
@@ -68,26 +68,26 @@
     },
     {
     "id": 12,
-      "questions": "True or False: you can initalize a git repository stright from the terminal?",
-      "answer": "Functional componenets are used when state is being passed down as a prop.",
+      "questions": "True or False: you can initialize a git repository straight from the terminal?",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 13,
-      "questions": "Git init is used for what",
-      "answer": "To initalize a git repository.",
+      "questions": "Git init is used for what?",
+      "answer": "To initialize a git repository.",
       "flipped": false
     },
     {
     "id": 14,
       "questions": "True or False: git repositories can only be public?",
-      "answer": "False.",
+      "answer": "False",
       "flipped": false
     },
     {
     "id": 15,
       "questions": "True or False: it repositories can be shared with other collaborators on github?",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
@@ -105,7 +105,7 @@
     {
     "id": 18,
       "questions": "True or False: it is best practice to approve your own pull requests?",
-      "answer": "False.",
+      "answer": "False",
       "flipped": false
     },
     {
@@ -158,7 +158,7 @@
     },
     {
     "id": 27,
-      "questions": "Git clear is used for what",
+      "questions": "Git clear is used for what?",
       "answer": "To clear out the terminal, and allow it to display as a blank terminal.",
       "flipped": false
     }

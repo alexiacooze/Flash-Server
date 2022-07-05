@@ -56,7 +56,7 @@
         {
         "id": 10,
           "questions": "What is the main use of an a <title> tag?",
-          "answer": "It is used to define the documents title that is shown within the browser tab",
+          "answer": "It is used to define the documents title that is shown within the browser tab.",
           "flipped": false
         },
         {
@@ -116,25 +116,25 @@
         {
         "id": 20,
           "questions": "What is a name value pair, and how does it relate to attributes?",
-          "answer": "Attributes require name='value pairs'. A name value pair is a data value that has an associated name that is used to identify that data value",
+          "answer": "Attributes require name='value pairs'. A name value pair is a data value that has an associated name that is used to identify that data value.",
           "flipped": false
         },
         {
         "id": 21,
           "questions": "What is the difference between key-value pairs, attribute-value pairs, and name-value pairs?",
-          "answer": "Nothing, they are all the same",
+          "answer": "Nothing, they are all the same.",
           "flipped": false
         },
         {
         "id": 22,
           "questions": "True or False: attributes can be placed within an elements closing tag?",
-          "answer": "False. All attributes must be placed within an elements starting tag",
+          "answer": "False. All attributes must be placed within an elements starting tag.",
           "flipped": false
         },
         {
         "id": 23,
           "questions": "True or False: attributes have their own self-closing tag?",
-          "answer": "False.",
+          "answer": "False",
           "flipped": false
         },
         {
@@ -164,7 +164,7 @@
         {
         "id": 28,
           "questions": "True or False: can width and height be used as attributes?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {

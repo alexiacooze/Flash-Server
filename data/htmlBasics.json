@@ -8,7 +8,7 @@
         {
         "id": 2,
           "questions": "True or False: HTML is the basic structure within a web page?",
-          "answer": "An API is a document that contains specific backend data, that can be used an integrated into front-end applications.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -20,7 +20,7 @@
         {
         "id": 4,
           "questions": "What is a self closing tag?",
-          "answer": "A self closing tag is used for elements that do not have a separate closing tag",
+          "answer": "A self-closing tag is used for elements that do not have a separate closing tag.",
           "flipped": false
         },
         {
@@ -44,7 +44,7 @@
         {
         "id": 8,
           "questions": "Which of the following is NOT a semantic tag <article>, <form>, <table>, <div>?",
-          "answer": "<div> is not semantic",
+          "answer": "<div> is not semantic.",
           "flipped": false
         },
         {
@@ -61,8 +61,8 @@
         },
         {
         "id": 11,
-          "questions": "Oder the proper html page structure: <html> </html> <h1> </h1> <body> </body> <head> </head> <title> </title>",
-          "answer": "<html> <head> <title> </title> </head> <body>  <h1> </h1>  </body> </html>",
+          "questions": "Oder the proper html page structure: <html> </html> <h1> </h1> <body> </body> <head> </head> <title> </title>?",
+          "answer": "<html> <head> <title> </title> </head> <body>  <h1> </h1>  </body> </html>.",
           "flipped": false
         },
         {
@@ -79,20 +79,20 @@
         },
         {
         "id": 14,
-          "questions": "Will a paragraph element display if there is no closing tag?",
-          "answer": "Yes",
+          "questions": "True or False: Will a paragraph element display if there is no closing tag?",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 15,
           "questions": "What is an element with no content called?",
-          "answer": "An empty element",
+          "answer": "An empty element.",
           "flipped": false
         },
         {
         "id": 16,
           "questions": "True or False: HTML is case sensitive?",
-          "answer": "False.",
+          "answer": "False",
           "flipped": false
         },
         {
@@ -122,7 +122,7 @@
         {
         "id": 21,
           "questions": "In relation to relative paths, what is teh meaning of .. ?",
-          "answer": "..  = Up a directory",
+          "answer": "..  = Up a directory.",
           "flipped": false
         },
         {
@@ -139,8 +139,8 @@
         },
         {
         "id": 24,
-          "questions": "In relation to relative paths, what is teh meaning of ../?",
-          "answer": " ../../ = Two directories backwards.",
+          "questions": "In relation to relative paths, what is teh meaning of ../ ?",
+          "answer": "../../ = Two directories backwards.",
           "flipped": false
         },
         {
@@ -152,13 +152,13 @@
         {
         "id": 26,
           "questions": "True or False: paragraphs always start with a new line?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 27,
           "questions": "True or False: screen size will change the result of the HTML output display?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {

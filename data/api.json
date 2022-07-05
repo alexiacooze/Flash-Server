@@ -2,7 +2,7 @@
     {
         "id": 1,
           "questions": "What does API stand for?",
-          "answer": "application programming interface.",
+          "answer": "Application Programming Interface.",
           "flipped": false
         },
         {
@@ -14,13 +14,13 @@
         {
         "id": 3,
           "questions": "True or False: you will need an api URL to access REST API data?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 4,
-          "questions": "What is the difference between a REST API vs. a SOPA API?",
-          "answer": "SOAP is a protocol whereas REST is an architectural pattern. a REST API uses representational state transfer is a software architecture, and is used to interact via an HTTP protocols. SOAP uses service interfaces to expose its functionality to client applications",
+          "questions": "What is the difference between a REST API vs. a SOAP API?",
+          "answer": "SOAP is a protocol whereas REST is an architectural pattern. a REST API uses representational state transfer is a software architecture, and is used to interact via an HTTP protocols. SOAP uses service interfaces to expose its functionality to client applications.",
           "flipped": false
         },
         {
@@ -32,7 +32,7 @@
         {
         "id": 6,
           "questions": "What is a key?",
-          "answer": "Keys are assigned to elements to help with the indentification and identity of the element ",
+          "answer": "Keys are assigned to elements to help with the identification and identity of the element.",
           "flipped": false
         },
         {
@@ -79,20 +79,20 @@
         },
         {
         "id": 14,
-          "questions": "What is the difference betweeen componentDidMount and useEffect?",
-          "answer": "Both run after mounting. UseEffect runs after the paint has been committed to the screen as opposed to before",
+          "questions": "What is the difference between componentDidMount and useEffect?",
+          "answer": "Both run after mounting. UseEffect runs after the paint has been committed to the screen as opposed to before.",
           "flipped": false
         },
         {
         "id": 15,
-          "questions": "What are lifecycle methods??",
-          "answer": "Methods used to operate on components throughout their duration in the DOM",
+          "questions": "What are lifecycle methods?",
+          "answer": "Methods used to operate on components throughout their duration in the DOM.",
           "flipped": false
         },
         {
         "id": 16,
           "questions": "What are the 3 phases of lifecycle methods?",
-          "answer": "Mounting, updating, and unmounting",
+          "answer": "Mounting, updating, and unmounting.",
           "flipped": false
         },
         {
@@ -104,7 +104,7 @@
         {
         "id": 18,
           "questions": "What is the updating phase used for?",
-          "answer": "It is used wehn a change is made to the state or props of a React component, which rerenders the component.",
+          "answer": "It is used when a change is made to the state or props of a React component, which rerenders the component.",
           "flipped": false
         },
         {
@@ -116,13 +116,13 @@
         {
         "id": 20,
           "questions": "What is a promise?",
-          "answer": "A promise is a function that is used return result at a later point of time, is specific conditons as met, and are true.",
+          "answer": "A promise is a function that is used return result at a later point of time, is specific conditions as met, and are true.",
           "flipped": false
         },
         {
         "id": 21,
           "questions": "What is the use of async and await?",
-          "answer": "Async is used to make a function asynchronous, and await will ask the execution to wait until the defined task gets executed",
+          "answer": "Async is used to make a function asynchronous, and await will ask the execution to wait until the defined task gets executed.",
           "flipped": false
         },
         {
@@ -140,7 +140,7 @@
         {
         "id": 24,
           "questions": "True of False: is it best practice to always include a .catch?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -151,8 +151,8 @@
         },
         {
         "id": 26,
-          "questions": "True or False: promises are asynchronus?",
-          "answer": "True.",
+          "questions": "True or False: promises are asynchronous?",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -169,8 +169,8 @@
         },
         {
         "id": 29,
-          "questions": "What is the benefit of using an asynchronus function?",
-          "answer": "It allows for different types of code to run synonomously, which increases output speed.",
+          "questions": "What is the benefit of using an asynchronous function?",
+          "answer": "It allows for different types of code to run synonymously, which increases output speed.",
           "flipped": false
         },
         {

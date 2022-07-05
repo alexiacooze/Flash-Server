@@ -2,7 +2,7 @@
     {
         "id": 1,
           "questions": "What is the element used to create an HTML form for user input?",
-          "answer": "<form>",
+          "answer": "<form>.",
           "flipped": false
         },
         {
@@ -61,7 +61,7 @@
         },
         {
         "id": 11,
-          "questions": "What is the target='_blank' attribute used for ?",
+          "questions": "What is the target='_blank' attribute used for?",
           "answer": "It is used to open up a new tab when the element is clicked.",
           "flipped": false
         },
@@ -109,7 +109,7 @@
         },
         {
         "id": 19,
-          "questions": "True or False: elements contain attributes??",
+          "questions": "True or False: elements contain attributes?",
           "answer": "True.",
           "flipped": false
         },

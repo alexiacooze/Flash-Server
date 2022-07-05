@@ -26,7 +26,7 @@
         {
         "id": 5,
           "questions": "Is the class name case sensitive?",
-          "answer": "Yes.",
+          "answer": "Yes, class name's are case sensitive.",
           "flipped": false
         },
         {
@@ -67,14 +67,14 @@
         },
         {
         "id": 12,
-          "questions": "True or False: the id attribute within HTML is accessible within Javascript ?",
+          "questions": "True or False: the id attribute within HTML is accessible within Javascript?",
           "answer": "True, id can be accessed by DOM manipulation.",
           "flipped": false
         },
         {
         "id": 13,
           "questions": "True or False: the <iframe> tag specifies an inline frame?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -92,12 +92,12 @@
         {
         "id": 16,
           "questions": "True of False: <iframe> tags allow for inline styling?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 17,
-          "questions": "<What does XHTML stand for?",
+          "questions": "What does XHTML stand for?",
           "answer": "EXtensible HyperText Markup Language.",
           "flipped": false
         },
@@ -116,19 +116,19 @@
         {
         "id": 20,
           "questions": "True of False: XHTML is supported by all major browsers?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 21,
           "questions": "True or False: <!DOCTYPE> is mandatory within XHTML?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 22,
           "questions": "True or False: XHTML elements must always be closed?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -140,7 +140,7 @@
         {
         "id": 24,
           "questions": "True or False: SVG's are imported image specific?",
-          "answer": "False.",
+          "answer": "False",
           "flipped": false
         },
         {
@@ -152,7 +152,7 @@
         {
         "id": 26,
           "questions": "What tag is used for videos within HTML?",
-          "answer": "<video>",
+          "answer": "<video>.",
           "flipped": false
         }
     ]

@@ -7,20 +7,20 @@
         },
         {
         "id": 2,
-          "questions": "What is the purpose of css?",
+          "questions": "What is the purpose of CSS?",
           "answer": "To allow HTML elements are to be displayed on screen, paper, or in other media.",
           "flipped": false
         },
         {
         "id": 3,
           "questions": "True or False: external style sheets are stored within CSS files?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 4,
           "questions": "CSS can change the layout of a webpage?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -43,7 +43,7 @@
         },
         {
         "id": 8,
-          "questions": "True or False: both properties and values end with a semi-colon.",
+          "questions": "True or False: both properties and values end with a semi-colon?",
           "answer": "False. The property ends with a : and the value ends with a ;.",
           "flipped": false
         },
@@ -73,32 +73,32 @@
         },
         {
         "id": 13,
-          "questions": "How is flex box used?",
+          "questions": "How is flex-box used?",
           "answer": "Display: flex;",
           "flipped": false
         },
         {
         "id": 14,
-          "questions": "Does flex box require display: flex in order to be functional?",
+          "questions": "Does flex-box require display: flex in order to be functional?",
           "answer": "Yes, without display: flex, other css flex box properties can not be accessed.",
           "flipped": false
         },
         {
         "id": 15,
-          "questions": "How do you algin content to the center with flex box?",
-          "answer": "Display: flex; justify-content: center;",
+          "questions": "How do you align content to the center with flex box?",
+          "answer": "display: flex; justify-content: center;",
           "flipped": false
         },
         {
         "id": 16,
-          "questions": "How you you wrap text using flex box?",
-          "answer": "Display: flex; flex-wrap: wrap",
+          "questions": "How you you wrap text using flex-box?",
+          "answer": "display: flex; flex-wrap: wrap",
           "flipped": false
         },
         {
         "id": 17,
-          "questions": "Is flex bos or grid used more?",
-          "answer": "flex box.",
+          "questions": "Is flex-box or grid used more?",
+          "answer": "Flex-box.",
           "flipped": false
         },
         {
@@ -127,14 +127,14 @@
         },
         {
         "id": 22,
-          "questions": "True or False: comments can not span multiple lines ?",
-          "answer": "False.",
+          "questions": "True or False: comments can not span multiple lines?",
+          "answer": "False",
           "flipped": false
         },
         {
         "id": 23,
           "questions": "What does RBG stand for?",
-          "answer": "Red green blue.",
+          "answer": "Red, green, blue.",
           "flipped": false
         },
         {
@@ -152,7 +152,7 @@
         {
         "id": 26,
           "questions": "What property would allow for a background image to be set?",
-          "answer": "background-image: url('')",
+          "answer": "Background-image: url('').",
           "flipped": false
         }
     ]

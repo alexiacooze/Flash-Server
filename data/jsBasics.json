@@ -8,7 +8,7 @@
         {
         "id": 2,
           "questions": "What is a function?",
-          "answer": "a block of JavaScript code, that can be executed when 'called' for.",
+          "answer": "A block of JavaScript code, that can be executed when 'called' for.",
           "flipped": false
         },
         {
@@ -79,8 +79,8 @@
         },
         {
         "id": 14,
-          "questions": "True or False: using document.write() after an HTML document is loaded, will delete all existing HTML:?",
-          "answer": "True.",
+          "questions": "True or False: using document.write() after an HTML document is loaded, will delete all existing HTML?",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -98,7 +98,7 @@
         {
         "id": 17,
           "questions": "What is a global scope object?",
-          "answer": "Variables, properties, and methods by default belong to the window object. .",
+          "answer": "Variables, properties, and methods by default belong to the window object.",
           "flipped": false
         },
         {
@@ -116,19 +116,19 @@
         {
         "id": 20,
           "questions": "True of False: JavaScript program is a list of programming statements?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 21,
           "questions": "True or False: programming instructions are called statements?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 22,
           "questions": "True or False: JavaScript statements can be grouped together in code blocks, inside curly brackets {...}?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {

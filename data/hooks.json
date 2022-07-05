@@ -9,13 +9,13 @@
     {
     "id": 2,
       "questions": "What is the purpose of useEffect()?",
-      "answer": "Reduces the need for lifecycle methods, such as fetching data from an API, or chaning the DOM within the component",
+      "answer": "Reduces the need for lifecycle methods, such as fetching data from an API, or changing the DOM within the component.",
       "flipped": false
     },
     {
     "id": 3,
       "questions": "What is the purpose of useContext()?",
-      "answer": "Allows for state and props to be passed to different componenets, without the need of having it passed directly down via prop drilling.",
+      "answer": "Allows for state and props to be passed to different components, without the need of having it passed directly down via prop drilling.",
       "flipped": false
     },
     {
@@ -62,19 +62,19 @@
     },
     {
     "id": 11,
-      "questions": "True or False: Can useState be used within funtional componenents?",
-      "answer": "True.",
+      "questions": "True or False: Can useState be used within functional components?",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 12,
-      "questions": "True or False: Can useState be used within class componenents?",
-      "answer": "True.",
+      "questions": "True or False: Can useState be used within class components?",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 13,
-      "questions": "What is a class componenet used for",
+      "questions": "What is a class component used for?",
       "answer": "It is primarily used when using state without hooks.",
       "flipped": false
     },
@@ -86,26 +86,26 @@
     },
     {
     "id": 15,
-      "questions": "What is the first variable (state) found with a useState hook? [state, setState] = useState()",
-      "answer": "The name of the state",
+      "questions": "What is the first variable (state) found with a useState hook? [state, setState] = useState()?",
+      "answer": "The name of the state.",
       "flipped": false
     },
     {
     "id": 16,
-      "questions": "What is a second variable (setState) found within a useState hook i.e., [state, setState] = useState() ?",
+      "questions": "What is a second variable (setState) found within a useState hook i.e., [state, setState] = useState()?",
       "answer": "The change or alteration of the original state.",
       "flipped": false
     },
     {
     "id": 17,
       "questions": "True or False: useState() can take boolean values i.e., useState(false)?",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 18,
       "questions": "True or False: useState() can take array objects values i.e., useState([{name: pat, age: 30}])?",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
@@ -117,7 +117,7 @@
     {
     "id": 20,
       "questions": "True or False: useEffect is used for making API calls?",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
@@ -129,13 +129,13 @@
     {
     "id": 22,
       "questions": "True or False: hooks must be imported to be used?",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 23,
       "questions": "True or False: Imports are always at the bottom of the document?",
-      "answer": "False.",
+      "answer": "False",
       "flipped": false
     },
     {
@@ -147,31 +147,31 @@
     {
     "id": 25,
       "questions": "What is useEffect without cleanup?",
-      "answer": "Saves the application from memory leaks, and unwated memory storage, via cleaning up the effect after the component unmmounts.",
+      "answer": "Saves the application from memory leaks, and unwanted memory storage, via cleaning up the effect after the component unmounts.",
       "flipped": false
     },
     {
     "id": 26,
       "questions": "True or False: hooks must be imported with curly braces?",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 27,
       "questions": "True or False: hooks can only be called at the top level of a component.",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 28,
-      "questions": "True or False: hooks can be conditonal?",
-      "answer": "False.",
+      "questions": "True or False: hooks can be conditional?",
+      "answer": "False",
       "flipped": false
     },
     {
     "id": 29,
       "questions": "What is the purpose of a custom hook?",
-      "answer": "To create state that can be reused within different components",
+      "answer": "To create state that can be reused within different components.",
       "flipped": false
     },
     {

@@ -8,7 +8,7 @@
         {
         "id": 2,
           "questions": "What is the DOM?",
-          "answer": "A programming interface that allows us to create, change, or remove elements from the document..",
+          "answer": "A programming interface that allows us to create, change, or remove elements from the document.",
           "flipped": false
         },
         {
@@ -19,7 +19,7 @@
         },
         {
         "id": 4,
-          "questions": "The main document is what type of node.",
+          "questions": "The main document is what type of node?",
           "answer": "Root node.",
           "flipped": false
         },
@@ -32,7 +32,7 @@
         {
         "id": 6,
           "questions": "How many child nodes can the root contain?",
-          "answer": "one, <html>.",
+          "answer": "One, <html>.",
           "flipped": false
         },
         {
@@ -74,7 +74,7 @@
         {
         "id": 13,
           "questions": "True or False: buttons can use addEventListeners() to create functionality?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         }
     ]

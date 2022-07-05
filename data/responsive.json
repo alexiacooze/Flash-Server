@@ -43,14 +43,14 @@
         },
         {
         "id": 8,
-          "questions": "What is a media query.",
+          "questions": "What is a media query?",
           "answer": "It is a rule that is set for certain screen widths to change the design on teh page depending on the screen width.",
           "flipped": false
         },
         {
         "id": 9,
-          "questions": "True of False: media queries require breakpoints",
-          "answer": "True.",
+          "questions": "True of False: media queries require breakpoints?",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -68,13 +68,13 @@
         {
         "id": 12,
           "questions": "True of False: media queries can adjust font size?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 13,
           "questions": "Are media queries placed within the style sheet or the body of HTML?",
-          "answer": "CSS style sheet",
+          "answer": "CSS style sheet.",
           "flipped": false
         },
         {
@@ -86,7 +86,7 @@
         {
         "id": 15,
           "questions": "Are SVG's or PNG's better for RWD?",
-          "answer": "SVG",
+          "answer": "SVG.",
           "flipped": false
         },
         {

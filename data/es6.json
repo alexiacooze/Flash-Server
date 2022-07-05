@@ -2,7 +2,7 @@
     {
         "id": 1,
           "questions": "What does ES6 stand for?",
-          "answer": "ECMAScript",
+          "answer": "ECMAScript.",
           "flipped": false
         },
         {
@@ -26,7 +26,7 @@
         {
         "id": 5,
           "questions": "True or False: you can use the terms argument and parameter interchangeably?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
@@ -38,30 +38,30 @@
         {
         "id": 7,
           "questions": "True or False: functions can not pass undefined arguments?",
-          "answer": "False.",
+          "answer": "False",
           "flipped": false
         },
         {
         "id": 8,
           "questions": "True or False: functions can take parameters?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 9,
           "questions": "True or False: You can use a return value of a function as a default value for a parameter?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 10,
           "questions": "True or False: The value of the arguments object inside the function is the number of actual arguments that you pass to the function?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 11,
-          "questions": "What is a rest parameter?",
+          "questions": "What is the syntax for the rest parameter?",
           "answer": "...",
           "flipped": false
         },
@@ -73,7 +73,7 @@
         },
         {
         "id": 13,
-          "questions": "What is the spread operator?",
+          "questions": "What is the syntax for the spread operator?",
           "answer": "...",
           "flipped": false
         },
@@ -92,7 +92,7 @@
         {
         "id": 16,
           "questions": "What is destructuring?",
-          "answer": "It destructure's properties of an object or elements of an array into individual variables..",
+          "answer": "It destructure's properties of an object or elements of an array into individual variables.",
           "flipped": false
         },
         {
@@ -104,7 +104,7 @@
         {
         "id": 18,
           "questions": "What is typeof used for?",
-          "answer": "Returns a string indicating the type of the unevaluated operand. .",
+          "answer": "Returns a string indicating the type of the unevaluated operand.",
           "flipped": false
         },
         {
@@ -116,7 +116,7 @@
         {
         "id": 20,
           "questions": "True of False: If the arrow function has no parameter, you do not need to use parentheses?",
-          "answer": "False.",
+          "answer": "False",
           "flipped": false
         } 
     ]

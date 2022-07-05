@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-          "questions": "True or False: conditional rendering works the same way conditons work in javascript?",
-          "answer": "True.",
+          "questions": "True or False: conditional rendering works the same way conditions work in javascript?",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 2,
-          "questions": "Are if and else statements considered conditonal statements?",
-          "answer": "Yes, if/ else statements are considered conditonal statements.",
+          "questions": "Are if and else statements considered conditional statements?",
+          "answer": "Yes, if/ else statements are considered conditional statements.",
           "flipped": false
         },
         {
@@ -20,48 +20,48 @@
         {
         "id": 4,
           "questions": "True or False: anything containing false will always evaluate to false?",
-          "answer": "True.",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 5,
-          "questions": "True or False: anything containing a true will always evaluate to true",
-          "answer": "False.",
+          "questions": "True or False: anything containing a true will always evaluate to true?",
+          "answer": "False",
           "flipped": false
         },
         {
         "id": 6,
-          "questions": "True of False: eturning a falsy expression will still cause the element after && to be skipped but will return the falsy expression?",
-          "answer": "True.",
+          "questions": "True of False: returning a falsy expression will still cause the element after && to be skipped but will return the falsy expression?",
+          "answer": "True",
           "flipped": false
         },
         {
         "id": 7,
-          "questions": "Anything after the ternary operator is consdiered truthy or falsy?",
+          "questions": "Anything after the ternary operator is considered truthy or falsy?",
           "answer": "Truthy.",
           "flipped": false
         },
         {
         "id": 8,
-          "questions": "Anything after the conditonal operator : within ternary conditonal operators is truthy or falsy",
+          "questions": "Anything after the conditional operator : within ternary conditional operators is truthy or falsy?",
           "answer": "Falsy.",
           "flipped": false
         },
         {
         "id": 9,
-          "questions": "What does the bang ! operator evaluate to",
+          "questions": "What does the bang ! operator evaluate to?",
           "answer": "It evaluates to 'not'. Anything that the bang operator is placed in front of will reverse the value, returning the opposite.",
           "flipped": false
         },
         {
         "id": 10,
           "questions": "What are falsy values?",
-          "answer": "The value that is considered false when encountered in a Boolean contextt.",
+          "answer": "The value that is considered false when encountered in a Boolean contexts.",
           "flipped": false
         },
         {
         "id": 11,
-          "questions": "Within if statements, what statement is used if the if() evaluates to false",
+          "questions": "Within if statements, what statement is used if the if() evaluates to false?",
           "answer": "Else",
           "flipped": false
         },
@@ -80,13 +80,13 @@
         {
         "id": 14,
           "questions": "What are inline conditional expressions?",
-          "answer": "inline if () statements, and ternary '? :' operators.",
+          "answer": "Inline if () statements, and ternary '? :' operators.",
           "flipped": false
         },
         {
         "id": 15,
-          "questions": "True or False: conditonals can be used within JSX?",
-          "answer": "True.",
+          "questions": "True or False: conditionals can be used within JSX?",
+          "answer": "True",
           "flipped": false
         }
     ]

@@ -2,19 +2,19 @@
 [
     {
     "id": 1,
-      "questions": "True or False: State can be used in a class componenent?",
-      "answer": "True.",
+      "questions": "True or False: State can be used in a class component?",
+      "answer": "True",
       "flipped": false
     },
     {
     "id": 2,
-      "questions": "True or False: State can be used in a functional componenent?",
-      "answer": "False.",
+      "questions": "True or False: State can be used in a functional component?",
+      "answer": "False",
       "flipped": false
     },
     {
     "id": 3,
-      "questions": "What is the purpse of using this.state?",
+      "questions": "What is the purpose of using this.state?",
       "answer": "It is used to reference the state when using it within the component.",
       "flipped": false
     },
@@ -45,13 +45,13 @@
     {
     "id": 8,
       "questions": "True or False: props can be used within a class component?",
-      "answer": "False.",
+      "answer": "False",
       "flipped": false
     },
     {
     "id": 9,
       "questions": "True or False: state can only be changed once?",
-      "answer": "False.",
+      "answer": "False",
       "flipped": false
     },
     {
@@ -68,8 +68,8 @@
     },
     {
     "id": 12,
-      "questions": "What is a functional componenet used for?",
-      "answer": "Functional componenets are used when state is being passed down as a prop.",
+      "questions": "What is a functional component used for?",
+      "answer": "Functional components are used when state is being passed down as a prop.",
       "flipped": false
     },
     {
@@ -99,7 +99,7 @@
     {
     "id": 17,
       "questions": "True of False: event handlers can not update state?",
-      "answer": "False.",
+      "answer": "False",
       "flipped": false
     },
     {
@@ -117,7 +117,7 @@
     {
     "id": 20,
       "questions": "True or False: when using Redux, a state change will result in a new object being created?",
-      "answer": "True.",
+      "answer": "True",
       "flipped": false
     },
     {
@@ -129,13 +129,13 @@
     {
     "id": 22,
       "questions": "True or False: state is a reserved keyword within React?",
-      "answer": "False.",
+      "answer": "False",
       "flipped": false
     },
     {
     "id": 23,
-      "questions": "True or Falase: props can be passed to state",
-      "answer": "False.",
+      "questions": "True or False: props can be passed to state?",
+      "answer": "False",
       "flipped": false
     },
     {
@@ -146,7 +146,7 @@
     },
     {
     "id": 25,
-      "questions": "What does it mean for somehting to be mutable?",
+      "questions": "What does it mean for something to be mutable?",
       "answer": "That the original component does allow for change.",
       "flipped": false
     },
