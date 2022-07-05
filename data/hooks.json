@@ -1,0 +1,183 @@
+
+[
+    {
+    "id": 1,
+      "questions": "What is the purpose of useState()?",
+      "answer": "Allows for state to be used within functional components.",
+      "flipped": false
+    },
+    {
+    "id": 2,
+      "questions": "What is the purpose of useEffect()?",
+      "answer": "Reduces the need for lifecycle methods, such as fetching data from an API, or changing the DOM within the component.",
+      "flipped": false
+    },
+    {
+    "id": 3,
+      "questions": "What is the purpose of useContext()?",
+      "answer": "Allows for state and props to be passed to different components, without the need of having it passed directly down via prop drilling.",
+      "flipped": false
+    },
+    {
+    "id": 4,
+      "questions": "What is the purpose of useReducer()?",
+      "answer": "It is an alternative to useState, for more complex state management. Best used when the next state depends on the previous state.",
+      "flipped": false
+    },
+    {
+    "id": 5,
+      "questions": "What is the purpose of useMemo()?",
+      "answer": "Prevents expensive functions from being run on every render. Values are stored in memory, and then reused from the memory when inputs have changed.",
+      "flipped": false
+    },
+    {
+    "id": 6,
+      "questions": "What is the purpose of useCallback()?",
+      "answer": "It stores the callback within memory, and when it is called it will only change is the dependencies have changed.",
+      "flipped": false
+    },
+    {
+    "id": 7,
+      "questions": "What is the purpose of useImperativeHandle()?",
+      "answer": "Allows for the modification of the ref instance, when it is exposed from parent components.",
+      "flipped": false
+    },
+    {
+    "id": 8,
+      "questions": "What is the purpose of useDebugValue()?",
+      "answer": "It displays additional information and logic of a custom Hook.",
+      "flipped": false
+    },
+    {
+    "id": 9,
+      "questions": "What is the purpose of useRef()?",
+      "answer": "Allows the storage of a mutable value, which prevents a re-render when updated.",
+      "flipped": false
+    },
+    {
+    "id": 10,
+      "questions": "What is the purpose of useLayoutEffect()?",
+      "answer": "Allows for reading of the layout from the DOM,and synchronous re-rendering.",
+      "flipped": false
+    },
+    {
+    "id": 11,
+      "questions": "True or False: Can useState be used within functional components?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 12,
+      "questions": "True or False: Can useState be used within class components?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 13,
+      "questions": "What is a class component used for?",
+      "answer": "It is primarily used when using state without hooks.",
+      "flipped": false
+    },
+    {
+    "id": 14,
+      "questions": "Is this.state or this.setState useful while using a useState hook?",
+      "answer": "No, hooks will remove the this.state and will use the useState value within the hook.",
+      "flipped": false
+    },
+    {
+    "id": 15,
+      "questions": "What is the first variable (state) found with a useState hook? [state, setState] = useState()?",
+      "answer": "The name of the state.",
+      "flipped": false
+    },
+    {
+    "id": 16,
+      "questions": "What is a second variable (setState) found within a useState hook i.e., [state, setState] = useState()?",
+      "answer": "The change or alteration of the original state.",
+      "flipped": false
+    },
+    {
+    "id": 17,
+      "questions": "True or False: useState() can take boolean values i.e., useState(false)?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 18,
+      "questions": "True or False: useState() can take array objects values i.e., useState([{name: pat, age: 30}])?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 19,
+      "questions": "To change/ update state within useState, what will you use?",
+      "answer": "setState is used to update the state within the hook.",
+      "flipped": false
+    },
+    {
+    "id": 20,
+      "questions": "True or False: useEffect is used for making API calls?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 21,
+      "questions": "True or False: useContext can be used to make API calls?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 22,
+      "questions": "True or False: hooks must be imported to be used?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 23,
+      "questions": "True or False: Imports are always at the bottom of the document?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 24,
+      "questions": "What is useEffect with cleanup?",
+      "answer": "Allows the screen to be changed by the browser. It allows components to change after it is rendered.",
+      "flipped": false
+    },
+    {
+    "id": 25,
+      "questions": "What is useEffect without cleanup?",
+      "answer": "Saves the application from memory leaks, and unwanted memory storage, via cleaning up the effect after the component unmounts.",
+      "flipped": false
+    },
+    {
+    "id": 26,
+      "questions": "True or False: hooks must be imported with curly braces?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 27,
+      "questions": "True or False: hooks can only be called at the top level of a component.",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 28,
+      "questions": "True or False: hooks can be conditional?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 29,
+      "questions": "What is the purpose of a custom hook?",
+      "answer": "To create state that can be reused within different components.",
+      "flipped": false
+    },
+    {
+    "id": 30,
+      "questions": "True or False: use context removed the need for prop drilling?",
+      "answer": "True",
+      "flipped": false
+    }
+]

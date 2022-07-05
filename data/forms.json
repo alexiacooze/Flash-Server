@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+          "questions": "What is the element used to create an HTML form for user input?",
+          "answer": "<form>.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What are input elements?",
+          "answer": "An element that represents a typed data field.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "What is the <input> element used for?",
+          "answer": "It is used to display an input fields that allow for content to be typed into the input box.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "What is the type attribute used for within the input field?",
+          "answer": "It specifies the type of content that will be used within the input field.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "What is the type='text' attribute used for within the input field?",
+          "answer": "Displays a single-line text input field.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is the type='radio' attribute used for within the input field?",
+          "answer": "It displays a radio button which allows for multi-selection.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "What is the type='checkbox' attribute used for within the input field?",
+          "answer": "It displays a checkbox button which allows for multi-selection.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "What is the type='submit' attribute used for within the input field?",
+          "answer": "It displays submit button.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "What is the type='button' attribute used for within the input field?",
+          "answer": "It displays a clickable button.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "What is the action='' attribute used for?",
+          "answer": "It defines the action that is performed when the form is submitted to the server side.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What is the target='_blank' attribute used for?",
+          "answer": "It is used to open up a new tab when the element is clicked.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "What is the method='' attribute used for?",
+          "answer": "It specifies the HTTP method to be used when submitting the form data.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "What is the main use of a <label> element?",
+          "answer": "It is used to create a caption for a form control.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "What two elements are used to connect the label and input element together?",
+          "answer": "The for attribute is used within label, and the id attribute is used within the input element.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "What is the main use of a <select> tag?",
+          "answer": "It creates a drop down menu.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "True of False: is <option> or <options> the correct syntax for the drop down items within a select element?",
+          "answer": "<option>.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "<What is the difference between <ul> and <ol> tags??",
+          "answer": "<ul> is and unordered list i.e., dot jots. <ol> is an ordered list i.e., a numbered list.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "True or False: the <textarea> element defines a single input field?",
+          "answer": "False. It defines a multi-line input field.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "True or False: elements contain attributes?",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "What is the difference between the rows and cols attribute?",
+          "answer": "The rows attribute specifies the visible number of lines in a text area, and the cols attribute specifies the visible width of a text area.",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "Name 5 different input types that can be used within the <input> tag?",
+          "answer": "<All options include, button, checkbox, color, date, datetime-local, email, file, hidden, image, month, number, password, radio, range, reset, search, submit, tel, text, time, url, week.",
+          "flipped": false
+        }
+    ]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+          "questions": "What is an array method?",
+          "answer": "Functions built-in to JavaScript that can be applied to arrays.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What is the array method .push used for?",
+          "answer": "Adds new elements to the end of an array, and returns the new length.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "What is the array method .pop used for?",
+          "answer": "Removes the last element of an array, and returns that element.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "What is the array method .shift used for?",
+          "answer": "Removes the first element of an array, and returns that element.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "What is the array method .unshift used for?",
+          "answer": "Adds new elements to the beginning of an array, and returns the new length.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is the array method .concat used for?",
+          "answer": "Joins arrays and returns an array with the joined arrays.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "What is the array method .join used for?",
+          "answer": "Joins all elements of an array into a string.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "What is the array method .slice used for?",
+          "answer": "Selects a part of an array, and returns the new array.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "What is the array method .indexof used for?",
+          "answer": "Search the array for an element and returns its position.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "What is the array method .includes used for?",
+          "answer": "Checks if an array contains the specified element.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What is the array method .find used for?",
+          "answer": "Returns the value of the first element in an array that pass a test.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "What is the array method .findIndex used for?",
+          "answer": "Returns the index of the first element in an array that pass a test.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "What is the array method .map used for?",
+          "answer": "Creates a new array with the result of calling a function for each array element.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "What is the array method .filter used for?",
+          "answer": "Creates a new array with every element in an array that pass a test.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "What is the array method .reduce used for?",
+          "answer": "Reduce the values of an array to a single value.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "What is the array method .every used for?",
+          "answer": "Checks if every element in an array pass a test.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "What is the array method .some used for?",
+          "answer": "Checks if any of the elements in an array pass a test.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "What is the array method .reverse used for?",
+          "answer": "Reverses the order of the elements in an array.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What is the array method .at used for?",
+          "answer": "Takes an integer value and returns the item at that index.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "What is the array method .some used for?",
+          "answer": "Checks if any of the elements in an array pass a test.",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "What is the array method .sort used for?",
+          "answer": "Sorts the elements of an array.",
+          "flipped": false
+        },
+        {
+        "id": 22,
+          "questions": "What is the array method .toString used for?",
+          "answer": "Converts an array to a string, and returns the result.",
+          "flipped": false
+        },
+        {
+        "id": 23,
+          "questions": "What is the array method .valueOf used for?",
+          "answer": "Returns the primitive value of an array.",
+          "flipped": false
+        },
+        {
+        "id": 24,
+          "questions": "What is the array method .includes used for?",
+          "answer": "Check if an array contains the specified element.",
+          "flipped": false
+        },
+        {
+        "id": 25,
+          "questions": "What is the array method .fill used for?",
+          "answer": "Fill the elements in an array with a static value.",
+          "flipped": false
+        },
+        {
+        "id": 26,
+          "questions": "What is the array method .every used for?",
+          "answer": "Checks if every element in an array pass a test",
+          "flipped": false
+        }
+    ]

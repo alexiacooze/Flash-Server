@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+          "questions": "What does ES6 stand for?",
+          "answer": "ECMAScript.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "Syntax: let?",
+          "answer": "Declare block-scoped variables.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "Syntax: var?",
+          "answer": "Declare block-scoped variables, and global variables.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "Syntax: const?",
+          "answer": "Define constants.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "True or False: you can use the terms argument and parameter interchangeably?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "True or False: a parameter has a default value of undefined?",
+          "answer": "It is used to specify a unique id for an HTML element.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "True or False: functions can not pass undefined arguments?",
+          "answer": "False",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "True or False: functions can take parameters?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "True or False: You can use a return value of a function as a default value for a parameter?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "True or False: The value of the arguments object inside the function is the number of actual arguments that you pass to the function?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What is the syntax for the rest parameter?",
+          "answer": "...",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "What does the rest parameter accomplish?",
+          "answer": "Allows you to represent an indefinite number of arguments as an array.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "What is the syntax for the spread operator?",
+          "answer": "...",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "What does the spread parameter accomplish?",
+          "answer": "Allows you to spread out elements of an iterable object such as an array, map, or set.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "What is an object literal?",
+          "answer": "It is a collection of name-value pairs.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "What is destructuring?",
+          "answer": "It destructure's properties of an object or elements of an array into individual variables.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "What is constructor() used for?",
+          "answer": "Constructor() is where you can initialize the properties of an instance.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "What is typeof used for?",
+          "answer": "Returns a string indicating the type of the unevaluated operand.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What are arrow functions used for?",
+          "answer": "It provides you with an alternative way to write a shorter syntax compared to the function expression.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "True of False: If the arrow function has no parameter, you do not need to use parentheses?",
+          "answer": "False",
+          "flipped": false
+        } 
+    ]

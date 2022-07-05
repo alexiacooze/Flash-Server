@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+          "questions": "What does CSS stand for?",
+          "answer": "Cascading style sheet.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What is the purpose of CSS?",
+          "answer": "To allow HTML elements are to be displayed on screen, paper, or in other media.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "True or False: external style sheets are stored within CSS files?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "CSS can change the layout of a webpage?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "What is a CSS property?",
+          "answer": "A property is a built in value that will specify what styling is being used i.e., color.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is a CSS value?",
+          "answer": "It is the assigned styling that corresponds to the property i.e., property is color and the value is red.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "What is a CSS selector?",
+          "answer": "It points to the HTML element you want to style.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "True or False: both properties and values end with a semi-colon?",
+          "answer": "False. The property ends with a : and the value ends with a ;.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "True of False: declarations don't have to be separated by semi-colons?",
+          "answer": "False, in oder for the CSS to be applied, each declaration must be separated by semi-colons.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "Are html elements reserved as CSS selectors?",
+          "answer": "Yes, some elements such as p, div etc. are reserved css selectors.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "Can CSS use id's be used for styling?",
+          "answer": "Yes.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "What is CSS flex box?",
+          "answer": "It is used to style and position elements on the webpage.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "How is flex-box used?",
+          "answer": "Display: flex;",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "Does flex-box require display: flex in order to be functional?",
+          "answer": "Yes, without display: flex, other css flex box properties can not be accessed.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "How do you align content to the center with flex box?",
+          "answer": "display: flex; justify-content: center;",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "How you you wrap text using flex-box?",
+          "answer": "display: flex; flex-wrap: wrap",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "Is flex-box or grid used more?",
+          "answer": "Flex-box.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "Will text-align: center align a <div> into the middle of the page?",
+          "answer": "No, this property only works on text. It will align the text to the center of the element it is nested in.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What is the relationship between relative and absolute positioning?",
+          "answer": "Anything that has relative positioning will be positioned relative to the absolute value.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "What will static positioning accomplish?",
+          "answer": "Anything with static positioning will keep the position the at the same level on the page, even when scrolling.",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "How can you make a comment is CSS?",
+          "answer": "/* text goes here */",
+          "flipped": false
+        },
+        {
+        "id": 22,
+          "questions": "True or False: comments can not span multiple lines?",
+          "answer": "False",
+          "flipped": false
+        },
+        {
+        "id": 23,
+          "questions": "What does RBG stand for?",
+          "answer": "Red, green, blue.",
+          "flipped": false
+        },
+        {
+        "id": 24,
+          "questions": "What is a HEX value?",
+          "answer": "It is a specified color within CSS that uses a hexadecimal value that begins with #.",
+          "flipped": false
+        },
+        {
+        "id": 25,
+          "questions": "Are color names reserved within CSS?",
+          "answer": "Yes, CSS have color names reserved.",
+          "flipped": false
+        },
+        {
+        "id": 26,
+          "questions": "What property would allow for a background image to be set?",
+          "answer": "Background-image: url('').",
+          "flipped": false
+        }
+    ]

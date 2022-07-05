@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+          "questions": "What must be installed when using react-router?",
+          "answer": "React-router-dom.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "What is the most current version of react-router?",
+          "answer": "react-router-dom@6.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "Where can react router dependencies be found within a React app?",
+          "answer": "Within the package.json or package-lock.json files.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "True or False: react-router @6 uses switch statements?",
+          "answer": "False",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "True or False: react-router @5.3 uses switch statements?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is used instead of a switch statement when setting up react routes?",
+          "answer": "<Routes> <Routes/>.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "True or False: any component placed above a switch statement will be see as global, and will render on every component?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "True or False: react-router @5.3 uses element={} instead of component={} within the component route?",
+          "answer": "False. This is only used by react-router-dom@6.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "What is the use of path='' within route?",
+          "answer": "It is used to connect the desired path of the component. The given path will be used within route linking.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "True or False: Route is comparable to href in HTML?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "True of False: the path within a component does not correspond to the path found within the corresponding component URL?",
+          "answer": "False. The path set within the route is the path that is linked to the component, and therefore will be the same within the URL.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "Are routes to establish components self closing?",
+          "answer": "Yes, they are self closing.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "Is <BrowserRouter> or <Router> proper syntax when setting up the routes?",
+          "answer": "BrowserRouter is proper syntax.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "True or False: within react-router-dom@6, the component name is placed within the element tag?",
+          "answer": "True. The component name is then placed within its own self closing tag.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "Which is more versatile, <Link> or <NavLink>?",
+          "answer": "NavLink is more versatile.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "What can <NavLink> do, that <Link> can not do?",
+          "answer": "NavLink can be used to add style attributes directly to the active routes.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "True or False: <Link> or <NavLink> work outside of a router?",
+          "answer": "False.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "What is the difference between BrowserRouter and Router?",
+          "answer": " A <BrowserRouter> uses regular URL paths, and a <Router> does not.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "What is the purpose of the to={} or to='' attribute within <NavLink> or <Link>?",
+          "answer": "It will tell the link where the path should lead to. It will reference the original path that is set within the routes component path.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "True or False: App.js is most commonly used for storing the component routes?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "True or False: in order for <Link> or <NavLink> to work, the paths much be identical to the component route paths?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 22,
+          "questions": "Does the hierarchy of the route affect how it is displayed on the page?",
+          "answer": "Yes, the routes must be place sequentially in order for the components to properly render on the page.",
+          "flipped": false
+        }
+    ]

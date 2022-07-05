@@ -1,0 +1,165 @@
+
+[
+    {
+    "id": 1,
+      "questions": "True or False: State can be used in a class component?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 2,
+      "questions": "True or False: State can be used in a functional component?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 3,
+      "questions": "What is the purpose of using this.state?",
+      "answer": "It is used to reference the state when using it within the component.",
+      "flipped": false
+    },
+    {
+    "id": 4,
+      "questions": "What is the use of state?",
+      "answer": "It is used to create, store, and manage data.",
+      "flipped": false
+    },
+    {
+    "id": 5,
+      "questions": "What is the use of props?",
+      "answer": "It is used to pass data down to other components.",
+      "flipped": false
+    },
+    {
+    "id": 6,
+      "questions": "True or False: state can only be passed upwards?",
+      "answer": "False, state can only be passed downwards.",
+      "flipped": false
+    },
+    {
+    "id": 7,
+      "questions": "Should state be held within the parent or child component?",
+      "answer": "Parent.",
+      "flipped": false
+    },
+    {
+    "id": 8,
+      "questions": "True or False: props can be used within a class component?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 9,
+      "questions": "True or False: state can only be changed once?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 10,
+      "questions": "How is state changed?",
+      "answer": "It is changed via setState. When the new value is inputted, the component re-renders.",
+      "flipped": false
+    },
+    {
+    "id": 11,
+      "questions": "What is a state object",
+      "answer": "Property values that belongs to the component, that is stored within state.",
+      "flipped": false
+    },
+    {
+    "id": 12,
+      "questions": "What is a functional component used for?",
+      "answer": "Functional components are used when state is being passed down as a prop.",
+      "flipped": false
+    },
+    {
+    "id": 13,
+      "questions": "True or False: data from props can be changed?",
+      "answer": "False. Data from props can not be changed as it is read only. State must be changed in order for the props to change.",
+      "flipped": false
+    },
+    {
+    "id": 14,
+      "questions": "What is a stateless component?",
+      "answer": "A component that does not hold a state, therefore it would be a functional component, if no hooks are used.",
+      "flipped": false
+    },
+    {
+    "id": 15,
+      "questions": "Props is a colloquial term for what?",
+      "answer": "Properties.",
+      "flipped": false
+    },
+    {
+    "id": 16,
+      "questions": "Where is state stored within the component?",
+      "answer": "Within a state variable, above the render, and return.",
+      "flipped": false
+    },
+    {
+    "id": 17,
+      "questions": "True of False: event handlers can not update state?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 18,
+      "questions": "What does the term 'lifting up state' mean?",
+      "answer": "Moving it up to the closest common ancestor of the components that need it.",
+      "flipped": false
+    },
+    {
+    "id": 19,
+      "questions": "What is Redux used for?",
+      "answer": "It is an application for state management, via state tree's, which cant be changed directly.",
+      "flipped": false
+    },
+    {
+    "id": 20,
+      "questions": "True or False: when using Redux, a state change will result in a new object being created?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 21,
+      "questions": "True or False: Data within a JSON file is stored as a key:value pair?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 22,
+      "questions": "True or False: state is a reserved keyword within React?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 23,
+      "questions": "True or False: props can be passed to state?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 24,
+      "questions": "What does it mean for something to be immutable?",
+      "answer": "That the original component does not allow change.",
+      "flipped": false
+    },
+    {
+    "id": 25,
+      "questions": "What does it mean for something to be mutable?",
+      "answer": "That the original component does allow for change.",
+      "flipped": false
+    },
+    {
+    "id": 26,
+      "questions": "Are props and state mutable or immutable?",
+      "answer": "Props are immutable and state is mutable.",
+      "flipped": false
+    },
+    {
+    "id": 27,
+      "questions": "Are state and props used within both front-end and back-end development?",
+      "answer": "No it is only used within front-end development.",
+      "flipped": false
+    }
+]

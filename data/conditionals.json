@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+          "questions": "True or False: conditional rendering works the same way conditions work in javascript?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "Are if and else statements considered conditional statements?",
+          "answer": "Yes, if/ else statements are considered conditional statements.",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "What will true && false evaluate to?",
+          "answer": "False",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "True or False: anything containing false will always evaluate to false?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "True or False: anything containing a true will always evaluate to true?",
+          "answer": "False",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "True of False: returning a falsy expression will still cause the element after && to be skipped but will return the falsy expression?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "Anything after the ternary operator is considered truthy or falsy?",
+          "answer": "Truthy.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "Anything after the conditional operator : within ternary conditional operators is truthy or falsy?",
+          "answer": "Falsy.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "What does the bang ! operator evaluate to?",
+          "answer": "It evaluates to 'not'. Anything that the bang operator is placed in front of will reverse the value, returning the opposite.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "What are falsy values?",
+          "answer": "The value that is considered false when encountered in a Boolean contexts.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "Within if statements, what statement is used if the if() evaluates to false?",
+          "answer": "Else",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "Within if statements, what statement is used if the if() if there are more than 2 conditions being evaluated?",
+          "answer": "Else if, and else.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "What are API endpoints?",
+          "answer": "API endpoint is a digital location where an API receives requests about a specific resource on its server.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "What are inline conditional expressions?",
+          "answer": "Inline if () statements, and ternary '? :' operators.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "True or False: conditionals can be used within JSX?",
+          "answer": "True",
+          "flipped": false
+        }
+    ]

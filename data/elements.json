@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+          "questions": "What is and <br> tag and what is its purpose?",
+          "answer": "It is a break tag, adn will create a line break within the page content.",
+          "flipped": false
+        },
+        {
+        "id": 2,
+          "questions": "True or False: HTML elements can be nested?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 3,
+          "questions": "What is and <br> tag and what is its purpose?",
+          "answer": "That elements can contain other elements.",
+          "flipped": false
+        },
+        {
+        "id": 4,
+          "questions": "Is <P> the same as <p>?",
+          "answer": "Yes, HTML elements are not case sensitive.",
+          "flipped": false
+        },
+        {
+        "id": 5,
+          "questions": "Is an <h1> or an <h6> larger in size?",
+          "answer": "<h1>.",
+          "flipped": false
+        },
+        {
+        "id": 6,
+          "questions": "What is the largest h tag?",
+          "answer": "<h1>.",
+          "flipped": false
+        },
+        {
+        "id": 7,
+          "questions": "What is the <link> tag used for?",
+          "answer": "It specifies the relationships between the current document and an external resource.",
+          "flipped": false
+        },
+        {
+        "id": 8,
+          "questions": "What is the <style> tag used for??",
+          "answer": "It can be used for internal styling. Css can be placed within the style tag without the need of an external style sheet.",
+          "flipped": false
+        },
+        {
+        "id": 9,
+          "questions": "Where should the <style> tag be placed in a document?",
+          "answer": "Style tags should be placed within the <head> of a document.",
+          "flipped": false
+        },
+        {
+        "id": 10,
+          "questions": "What is the main use of an a <title> tag?",
+          "answer": "It is used to define the documents title that is shown within the browser tab.",
+          "flipped": false
+        },
+        {
+        "id": 11,
+          "questions": "What is the main use of an a <article> tag?",
+          "answer": "It is used for not related, self-contained component within a document.",
+          "flipped": false
+        },
+        {
+        "id": 12,
+          "questions": "What is the main use of an a <aside> tag?",
+          "answer": "It is used if the content is not directly related to the main content within the document.",
+          "flipped": false
+        },
+        {
+        "id": 13,
+          "questions": "What is the main use of a <footer> and <header> tag?",
+          "answer": "Header tags are used to begin the document, and contain header content. Footer is placed at the bottom of the document, and contains the footer content of a document.",
+          "flipped": false
+        },
+        {
+        "id": 14,
+          "questions": "What is the main use of a <nav> tag?",
+          "answer": "A nav tag is used for the section of the document that contains navigation links, such as a top navigation bar at the head of the document.",
+          "flipped": false
+        },
+        {
+        "id": 15,
+          "questions": "What is the main use of a <section> tag?",
+          "answer": "A section tag is most commonly used to outline a section within the document. It contains other tags, which contain the content.",
+          "flipped": false
+        },
+        {
+        "id": 16,
+          "questions": "What is the difference between a div tag and a section tag?",
+          "answer": "Section tags are used to outline the entire block of content, and div tags are used to contain additional content that is nested within the section tag. Div tags can be used to break up the content seen within the section.",
+          "flipped": false
+        },
+        {
+        "id": 17,
+          "questions": "<What is the difference between <ul> and <ol> tags??",
+          "answer": "<ul> is and unordered list i.e., dot jots. <ol> is an ordered list i.e., a numbered list.",
+          "flipped": false
+        },
+        {
+        "id": 18,
+          "questions": "What is an attribute?",
+          "answer": "Attributes specify coordinates to data.",
+          "flipped": false
+        },
+        {
+        "id": 19,
+          "questions": "True or False: elements contain attributes??",
+          "answer": "True.",
+          "flipped": false
+        },
+        {
+        "id": 20,
+          "questions": "What is a name value pair, and how does it relate to attributes?",
+          "answer": "Attributes require name='value pairs'. A name value pair is a data value that has an associated name that is used to identify that data value.",
+          "flipped": false
+        },
+        {
+        "id": 21,
+          "questions": "What is the difference between key-value pairs, attribute-value pairs, and name-value pairs?",
+          "answer": "Nothing, they are all the same.",
+          "flipped": false
+        },
+        {
+        "id": 22,
+          "questions": "True or False: attributes can be placed within an elements closing tag?",
+          "answer": "False. All attributes must be placed within an elements starting tag.",
+          "flipped": false
+        },
+        {
+        "id": 23,
+          "questions": "True or False: attributes have their own self-closing tag?",
+          "answer": "False",
+          "flipped": false
+        },
+        {
+        "id": 24,
+          "questions": "What is the use of a src='' attributes?",
+          "answer": "It is used to access the path to an image.",
+          "flipped": false
+        },
+        {
+        "id": 25,
+          "questions": "What is the use of a alt='' attributes?",
+          "answer": "It is primarily used for screen readers, where the text within the attribute will be read aloud. It can also be used to display the description of an image when an image cannot load.",
+          "flipped": false
+        },
+        {
+        "id": 26,
+          "questions": "What is an absolute URL?",
+          "answer": "It links to an external image that is hosted on another website.",
+          "flipped": false
+        },
+        {
+        "id": 27,
+          "questions": "What is an absolute URL?",
+          "answer": "It links to an internal image that is hosted within the code editors internal assets.",
+          "flipped": false
+        },
+        {
+        "id": 28,
+          "questions": "True or False: can width and height be used as attributes?",
+          "answer": "True",
+          "flipped": false
+        },
+        {
+        "id": 29,
+          "questions": "What is the use of a style attribute?",
+          "answer": "It is used to internally style the element without using any external styling.",
+          "flipped": false
+        },
+        {
+        "id": 30,
+          "questions": "What is the use of a lang attribute?",
+          "answer": "It is used to specify the language of the country.",
+          "flipped": false
+        }
+    ]

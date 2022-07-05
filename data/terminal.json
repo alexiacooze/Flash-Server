@@ -1,0 +1,165 @@
+
+[
+    {
+    "id": 1,
+      "questions": "Npm git reset --hard is used for what?",
+      "answer": "To revert any changes and reset code back to the previous state prior to committing changes.",
+      "flipped": false
+    },
+    {
+    "id": 2,
+      "questions": "What is the difference between npm and yarn?",
+      "answer": "NPM installs dependency packages sequentially, Yarn installs in-parallel. Yarn allows for faster installation of larger files.",
+      "flipped": false
+    },
+    {
+    "id": 3,
+      "questions": "What is the difference between npm and npx?",
+      "answer": "Both Npm and Npx are tools. Npm is used install packages. Npx is used to execute packages.",
+      "flipped": false
+    },
+    {
+    "id": 4,
+      "questions": "Npm i is used for what?",
+      "answer": "To reinstall all current packages and dependencies.",
+      "flipped": false
+    },
+    {
+    "id": 5,
+      "questions": "Git add . is used for what?",
+      "answer": "To add all current files to the stage.",
+      "flipped": false
+    },
+    {
+    "id": 6,
+      "questions": "Git status is used for what?",
+      "answer": "To check the status of the of your working tree.",
+      "flipped": false
+    },
+    {
+    "id": 7,
+      "questions": "Npm checkout -b is used for what?",
+      "answer": "To create a new branch.",
+      "flipped": false
+    },
+    {
+    "id": 8,
+      "questions": "Cd is used for what?",
+      "answer": "To enter into the file, folder or section.",
+      "flipped": false
+    },
+    {
+    "id": 9,
+      "questions": "Git touch is used for what",
+      "answer": "To create a new and empty file/ folder.",
+      "flipped": false
+    },
+    {
+    "id": 10,
+      "questions": "Git mkdir is used for what?",
+      "answer": "To create a new directory.",
+      "flipped": false
+    },
+    {
+    "id": 11,
+      "questions": "Git push is used for what?",
+      "answer": "To push current committed changes to a repository.",
+      "flipped": false
+    },
+    {
+    "id": 12,
+      "questions": "True or False: you can initialize a git repository straight from the terminal?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 13,
+      "questions": "Git init is used for what?",
+      "answer": "To initialize a git repository.",
+      "flipped": false
+    },
+    {
+    "id": 14,
+      "questions": "True or False: git repositories can only be public?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 15,
+      "questions": "True or False: it repositories can be shared with other collaborators on github?",
+      "answer": "True",
+      "flipped": false
+    },
+    {
+    "id": 16,
+      "questions": "True or False: only the creator of a github repository is capable of altering it?",
+      "answer": "False. Anything shared with collaborators can be altered with pull requests.",
+      "flipped": false
+    },
+    {
+    "id": 17,
+      "questions": "What is a pull request on github?",
+      "answer": "It is a request sent from collaborators who have changed existing code within a code base.",
+      "flipped": false
+    },
+    {
+    "id": 18,
+      "questions": "True or False: it is best practice to approve your own pull requests?",
+      "answer": "False",
+      "flipped": false
+    },
+    {
+    "id": 19,
+      "questions": "Git pull origin <branch> does what?",
+      "answer": "It will pull in any new, and or updated code from the codebase to your local machine.",
+      "flipped": false
+    },
+    {
+    "id": 20,
+      "questions": "Git checkout <branch> is used for what?",
+      "answer": "To switch and or change branches.",
+      "flipped": false
+    },
+    {
+    "id": 21,
+      "questions": "True or False: It is best practice to always work within the main branch?",
+      "answer": "False, it is best to create a working branch, and merge from the working branch to the main branch once the code has been reviewed.",
+      "flipped": false
+    },
+    {
+    "id": 22,
+      "questions": "Git merge is used for what?",
+      "answer": "To merge code from one branch to another.",
+      "flipped": false
+    },
+    {
+    "id": 23,
+      "questions": "Git ls command is used for what?",
+      "answer": "To list / list the contents on your current directory.",
+      "flipped": false
+    },
+    {
+    "id": 24,
+      "questions": "Git pwd is used for what?",
+      "answer": "To print the current working directory.",
+      "flipped": false
+    },
+    {
+    "id": 25,
+      "questions": "Git rmdir is used for what?",
+      "answer": "To remove a directory, only on empty folders.",
+      "flipped": false
+    },
+    {
+    "id": 26,
+      "questions": "Git clean is used for what?",
+      "answer": "To remove untracked files in a directory.",
+      "flipped": false
+    },
+    {
+    "id": 27,
+      "questions": "Git clear is used for what?",
+      "answer": "To clear out the terminal, and allow it to display as a blank terminal.",
+      "flipped": false
+    }
+]
