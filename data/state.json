@@ -158,8 +158,8 @@
     },
     {
     "id": 27,
-      "questions": "Are state and props used within both front-end and back-end developement?",
-      "answer": "No it is only used within front-end developement.",
+      "questions": "Are state and props used within both front-end and back-end development?",
+      "answer": "No it is only used within front-end development.",
       "flipped": false
     }
 ]
