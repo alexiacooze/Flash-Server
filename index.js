@@ -60,4 +60,4 @@ app.use("/dom", domRoutes);
 const es6Routes = require("./routes/es6");
 app.use("/es6", es6Routes);
 
-app.listen(PORT, () => console.log("Listening on http://localhost:${PORT}"));
+app.listen(PORT, () => console.log(`Listening on http://localhost:${PORT}`));
